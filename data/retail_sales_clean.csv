@@ -1,0 +1,801 @@
+OrderID,OrderDate,Region,City,Category,Product,Units,UnitPrice,Discount,UnitCost,SalesChannel,CustomerSegment,GrossRevenue,NetRevenue,TotalCost,Profit,ProfitMarginPct,Month,Quarter
+ORD-00001,2025-02-02,Cairo,Cairo,Accessories,Ergonomic Mouse,5,38.05,0.05,19.53,Corporate,Consumer,190.25,180.74,97.65,83.09,45.97,2025-02,2025Q1
+ORD-00002,2025-10-10,Upper Egypt,Minya,Mobile,SmartOne Pro,1,764.33,0.0,538.26,Online,Consumer,764.33,764.33,538.26,226.07,29.58,2025-10,2025Q4
+ORD-00003,2025-08-27,Alexandria,Alexandria,Accessories,Wireless Keyboard,3,51.95,0.0,29.18,Retail Store,Consumer,155.85,155.85,87.54,68.31,43.83,2025-08,2025Q3
+ORD-00004,2025-06-10,Cairo,Cairo,Accessories,Wireless Keyboard,3,52.81,0.0,28.58,Retail Store,Consumer,158.43,158.43,85.74,72.69,45.88,2025-06,2025Q2
+ORD-00005,2025-06-08,Upper Egypt,Assiut,Laptop,WorkMate 15,3,707.48,0.0,518.36,Retail Store,Consumer,2122.44,2122.44,1555.08,567.36,26.73,2025-06,2025Q2
+ORD-00006,2025-11-10,Upper Egypt,Minya,Laptop,NovaBook 14,1,951.51,0.1,615.63,Online,Consumer,951.51,856.36,615.63,240.73,28.11,2025-11,2025Q4
+ORD-00007,2025-02-01,Cairo,Cairo,Accessories,Wireless Keyboard,4,51.48,0.05,29.56,Corporate,Consumer,205.92,195.62,118.24,77.38,39.56,2025-02,2025Q1
+ORD-00008,2025-09-12,Alexandria,Alexandria,Mobile,Connect X,2,590.68,0.0,418.05,Corporate,Consumer,1181.36,1181.36,836.1,345.26,29.23,2025-09,2025Q3
+ORD-00009,2025-03-15,Cairo,Cairo,Laptop,NovaBook 14,2,874.64,0.0,622.62,Retail Store,Consumer,1749.28,1749.28,1245.24,504.04,28.81,2025-03,2025Q1
+ORD-00010,2025-02-04,Upper Egypt,Assiut,Mobile,Connect X,3,574.44,0.0,426.32,Online,Consumer,1723.32,1723.32,1278.96,444.36,25.79,2025-02,2025Q1
+ORD-00011,2025-07-12,Delta,Zagazig,Accessories,Wireless Keyboard,5,52.27,0.0,29.83,Corporate,Consumer,261.35,261.35,149.15,112.2,42.93,2025-07,2025Q3
+ORD-00012,2025-12-23,Delta,Mansoura,Accessories,USB-C Dock,5,127.46,0.0,73.64,Corporate,Consumer,637.3,637.3,368.2,269.1,42.23,2025-12,2025Q4
+ORD-00013,2025-09-26,Cairo,New Cairo,Accessories,USB-C Dock,2,111.8,0.0,71.97,Online,Small Business,223.6,223.6,143.94,79.66,35.63,2025-09,2025Q3
+ORD-00014,2025-10-05,Upper Egypt,Sohag,Mobile,Connect X,2,583.18,0.05,414.07,Retail Store,Consumer,1166.36,1108.04,828.14,279.9,25.26,2025-10,2025Q4
+ORD-00015,2025-09-19,Cairo,Giza,Laptop,NovaBook 14,3,858.53,0.1,619.18,Online,Consumer,2575.59,2318.03,1857.54,460.49,19.87,2025-09,2025Q3
+ORD-00016,2025-10-14,Cairo,New Cairo,Mobile,SmartOne Lite,3,401.26,0.0,282.7,Retail Store,Enterprise,1203.78,1203.78,848.1,355.68,29.55,2025-10,2025Q4
+ORD-00017,2025-07-07,Cairo,Giza,Mobile,SmartOne Pro,2,795.39,0.15,553.55,Online,Consumer,1590.78,1352.16,1107.1,245.06,18.12,2025-07,2025Q3
+ORD-00018,2025-02-16,Alexandria,Borg El Arab,Accessories,Ergonomic Mouse,3,38.28,0.0,18.79,Corporate,Consumer,114.84,114.84,56.37,58.47,50.91,2025-02,2025Q1
+ORD-00019,2025-11-03,Cairo,New Cairo,Accessories,Ergonomic Mouse,1,41.61,0.0,18.85,Online,Consumer,41.61,41.61,18.85,22.76,54.7,2025-11,2025Q4
+ORD-00020,2025-06-14,Upper Egypt,Sohag,Laptop,NovaBook 14,3,847.03,0.0,624.54,Online,Consumer,2541.09,2541.09,1873.62,667.47,26.27,2025-06,2025Q2
+ORD-00021,2025-07-02,Delta,Tanta,Laptop,NovaBook 14,1,869.52,0.1,643.46,Retail Store,Consumer,869.52,782.57,643.46,139.11,17.78,2025-07,2025Q3
+ORD-00022,2025-05-16,Cairo,New Cairo,Laptop,CreatorBook 16,3,1351.91,0.1,977.51,Online,Small Business,4055.73,3650.16,2932.53,717.63,19.66,2025-05,2025Q2
+ORD-00023,2025-03-08,Cairo,New Cairo,Monitor,CreatorView 32,3,515.63,0.0,391.08,Retail Store,Consumer,1546.89,1546.89,1173.24,373.65,24.15,2025-03,2025Q1
+ORD-00024,2025-12-05,Cairo,New Cairo,Accessories,Noise-Canceling Headset,4,164.99,0.1,86.39,Retail Store,Small Business,659.96,593.96,345.56,248.4,41.82,2025-12,2025Q4
+ORD-00025,2025-10-13,Delta,Mansoura,Laptop,CreatorBook 16,1,1305.9,0.0,960.68,Online,Consumer,1305.9,1305.9,960.68,345.22,26.44,2025-10,2025Q4
+ORD-00026,2025-08-24,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,1,314.92,0.1,229.37,Online,Consumer,314.92,283.43,229.37,54.06,19.07,2025-08,2025Q3
+ORD-00027,2025-05-27,Cairo,Cairo,Mobile,Connect X,2,589.55,0.0,412.04,Online,Consumer,1179.1,1179.1,824.08,355.02,30.11,2025-05,2025Q2
+ORD-00028,2025-10-28,Alexandria,Alexandria,Mobile,SmartOne Pro,3,779.17,0.15,556.55,Retail Store,Enterprise,2337.51,1986.88,1669.65,317.23,15.97,2025-10,2025Q4
+ORD-00029,2025-07-19,Cairo,Cairo,Monitor,ViewPro 27 QHD,3,308.68,0.0,225.42,Retail Store,Consumer,926.04,926.04,676.26,249.78,26.97,2025-07,2025Q3
+ORD-00030,2025-06-11,Alexandria,Borg El Arab,Laptop,WorkMate 15,2,734.9,0.05,507.67,Online,Consumer,1469.8,1396.31,1015.34,380.97,27.28,2025-06,2025Q2
+ORD-00031,2025-06-14,Upper Egypt,Assiut,Laptop,NovaBook 14,3,828.52,0.0,628.51,Online,Enterprise,2485.56,2485.56,1885.53,600.03,24.14,2025-06,2025Q2
+ORD-00032,2025-03-24,Alexandria,Alexandria,Accessories,USB-C Dock,2,118.75,0.05,71.23,Retail Store,Consumer,237.5,225.62,142.46,83.16,36.86,2025-03,2025Q1
+ORD-00033,2025-02-03,Alexandria,Alexandria,Laptop,CreatorBook 16,1,1290.02,0.0,988.79,Retail Store,Enterprise,1290.02,1290.02,988.79,301.23,23.35,2025-02,2025Q1
+ORD-00034,2025-07-22,Alexandria,Borg El Arab,Accessories,Noise-Canceling Headset,3,141.54,0.1,86.74,Online,Consumer,424.62,382.16,260.22,121.94,31.91,2025-07,2025Q3
+ORD-00035,2025-11-21,Cairo,New Cairo,Laptop,WorkMate 15,2,794.51,0.1,509.59,Retail Store,Consumer,1589.02,1430.12,1019.18,410.94,28.73,2025-11,2025Q4
+ORD-00036,2025-01-24,Cairo,Giza,Laptop,NovaBook 14,1,826.81,0.05,632.93,Online,Enterprise,826.81,785.47,632.93,152.54,19.42,2025-01,2025Q1
+ORD-00037,2025-11-10,Cairo,New Cairo,Laptop,WorkMate 15,3,820.12,0.0,508.21,Retail Store,Consumer,2460.36,2460.36,1524.63,935.73,38.03,2025-11,2025Q4
+ORD-00038,2025-10-30,Delta,Tanta,Mobile,SmartOne Lite,2,399.44,0.0,284.56,Online,Consumer,798.88,798.88,569.12,229.76,28.76,2025-10,2025Q4
+ORD-00039,2025-04-12,Alexandria,Borg El Arab,Laptop,NovaBook 14,2,847.6,0.0,623.29,Online,Consumer,1695.2,1695.2,1246.58,448.62,26.46,2025-04,2025Q2
+ORD-00040,2025-08-19,Delta,Zagazig,Laptop,WorkMate 15,1,736.72,0.1,518.14,Online,Consumer,736.72,663.05,518.14,144.91,21.85,2025-08,2025Q3
+ORD-00041,2025-03-02,Alexandria,Alexandria,Monitor,CreatorView 32,3,540.32,0.0,382.11,Online,Small Business,1620.96,1620.96,1146.33,474.63,29.28,2025-03,2025Q1
+ORD-00042,2025-10-04,Cairo,New Cairo,Mobile,SmartOne Lite,3,412.27,0.05,289.61,Retail Store,Small Business,1236.81,1174.97,868.83,306.14,26.06,2025-10,2025Q4
+ORD-00043,2025-09-13,Alexandria,Borg El Arab,Mobile,SmartOne Lite,3,422.64,0.05,279.82,Corporate,Small Business,1267.92,1204.52,839.46,365.06,30.31,2025-09,2025Q3
+ORD-00044,2025-05-10,Cairo,Giza,Laptop,NovaBook 14,3,849.5,0.05,618.38,Online,Consumer,2548.5,2421.07,1855.14,565.93,23.38,2025-05,2025Q2
+ORD-00045,2025-01-25,Cairo,Cairo,Mobile,SmartOne Lite,3,419.63,0.0,282.15,Retail Store,Consumer,1258.89,1258.89,846.45,412.44,32.76,2025-01,2025Q1
+ORD-00046,2025-12-21,Alexandria,Alexandria,Laptop,WorkMate 15,3,788.47,0.05,512.4,Online,Consumer,2365.41,2247.14,1537.2,709.94,31.59,2025-12,2025Q4
+ORD-00047,2025-06-12,Upper Egypt,Assiut,Accessories,Noise-Canceling Headset,4,150.28,0.0,89.57,Online,Consumer,601.12,601.12,358.28,242.84,40.4,2025-06,2025Q2
+ORD-00048,2025-11-22,Delta,Mansoura,Laptop,CreatorBook 16,1,1488.04,0.1,961.5,Corporate,Consumer,1488.04,1339.24,961.5,377.74,28.21,2025-11,2025Q4
+ORD-00049,2025-09-05,Cairo,Cairo,Monitor,ViewPro 27 QHD,2,309.53,0.0,223.46,Retail Store,Consumer,619.06,619.06,446.92,172.14,27.81,2025-09,2025Q3
+ORD-00050,2025-10-12,Delta,Tanta,Monitor,ViewPro 24,3,191.35,0.0,121.72,Online,Consumer,574.05,574.05,365.16,208.89,36.39,2025-10,2025Q4
+ORD-00051,2025-10-05,Cairo,Giza,Laptop,CreatorBook 16,3,1299.71,0.05,950.31,Retail Store,Consumer,3899.13,3704.17,2850.93,853.24,23.03,2025-10,2025Q4
+ORD-00052,2025-03-13,Upper Egypt,Sohag,Laptop,CreatorBook 16,3,1356.79,0.05,947.45,Corporate,Consumer,4070.37,3866.85,2842.35,1024.5,26.49,2025-03,2025Q1
+ORD-00053,2025-05-13,Alexandria,Borg El Arab,Laptop,CreatorBook 16,2,1286.79,0.0,948.98,Online,Small Business,2573.58,2573.58,1897.96,675.62,26.25,2025-05,2025Q2
+ORD-00054,2025-06-20,Cairo,New Cairo,Accessories,USB-C Dock,4,112.08,0.0,73.67,Online,Consumer,448.32,448.32,294.68,153.64,34.27,2025-06,2025Q2
+ORD-00055,2025-07-01,Cairo,Cairo,Laptop,CreatorBook 16,3,1302.09,0.0,967.12,Retail Store,Consumer,3906.27,3906.27,2901.36,1004.91,25.73,2025-07,2025Q3
+ORD-00056,2025-01-16,Cairo,New Cairo,Monitor,CreatorView 32,2,540.4,0.0,376.24,Retail Store,Enterprise,1080.8,1080.8,752.48,328.32,30.38,2025-01,2025Q1
+ORD-00057,2025-07-19,Upper Egypt,Assiut,Accessories,Wireless Keyboard,4,52.93,0.0,28.8,Retail Store,Consumer,211.72,211.72,115.2,96.52,45.59,2025-07,2025Q3
+ORD-00058,2025-02-26,Delta,Tanta,Accessories,Ergonomic Mouse,4,37.73,0.0,18.91,Online,Small Business,150.92,150.92,75.64,75.28,49.88,2025-02,2025Q1
+ORD-00059,2025-09-29,Alexandria,Alexandria,Mobile,SmartOne Pro,2,763.9,0.1,553.01,Online,Consumer,1527.8,1375.02,1106.02,269.0,19.56,2025-09,2025Q3
+ORD-00060,2025-09-07,Delta,Zagazig,Monitor,ViewPro 24,1,180.06,0.0,126.25,Retail Store,Consumer,180.06,180.06,126.25,53.81,29.88,2025-09,2025Q3
+ORD-00061,2025-12-03,Delta,Tanta,Laptop,WorkMate 15,2,813.43,0.0,513.95,Corporate,Consumer,1626.86,1626.86,1027.9,598.96,36.82,2025-12,2025Q4
+ORD-00062,2025-09-29,Cairo,Giza,Mobile,SmartOne Lite,2,403.14,0.05,281.07,Retail Store,Small Business,806.28,765.97,562.14,203.83,26.61,2025-09,2025Q3
+ORD-00063,2025-05-14,Upper Egypt,Minya,Mobile,SmartOne Lite,3,420.83,0.05,282.82,Online,Enterprise,1262.49,1199.37,848.46,350.91,29.26,2025-05,2025Q2
+ORD-00064,2025-12-20,Cairo,Giza,Monitor,ViewPro 24,2,210.87,0.0,127.56,Retail Store,Consumer,421.74,421.74,255.12,166.62,39.51,2025-12,2025Q4
+ORD-00065,2025-05-30,Delta,Zagazig,Accessories,Ergonomic Mouse,2,38.26,0.1,18.68,Online,Small Business,76.52,68.87,37.36,31.51,45.75,2025-05,2025Q2
+ORD-00066,2025-04-29,Alexandria,Borg El Arab,Accessories,Wireless Keyboard,5,50.79,0.0,29.73,Retail Store,Small Business,253.95,253.95,148.65,105.3,41.46,2025-04,2025Q2
+ORD-00067,2025-11-27,Delta,Mansoura,Laptop,NovaBook 14,3,978.63,0.05,634.95,Retail Store,Enterprise,2935.89,2789.1,1904.85,884.25,31.7,2025-11,2025Q4
+ORD-00068,2025-05-16,Upper Egypt,Sohag,Monitor,ViewPro 24,2,187.06,0.05,125.64,Corporate,Consumer,374.12,355.41,251.28,104.13,29.3,2025-05,2025Q2
+ORD-00069,2025-01-28,Cairo,Cairo,Mobile,SmartOne Pro,1,786.05,0.05,547.22,Online,Consumer,786.05,746.75,547.22,199.53,26.72,2025-01,2025Q1
+ORD-00070,2025-06-21,Delta,Zagazig,Mobile,SmartOne Pro,2,788.55,0.05,552.01,Retail Store,Small Business,1577.1,1498.24,1104.02,394.22,26.31,2025-06,2025Q2
+ORD-00071,2025-10-18,Delta,Zagazig,Monitor,CreatorView 32,2,526.47,0.0,375.31,Corporate,Small Business,1052.94,1052.94,750.62,302.32,28.71,2025-10,2025Q4
+ORD-00072,2025-03-11,Delta,Tanta,Mobile,SmartOne Lite,1,400.29,0.0,287.74,Retail Store,Consumer,400.29,400.29,287.74,112.55,28.12,2025-03,2025Q1
+ORD-00073,2025-06-18,Cairo,Cairo,Mobile,Connect X,2,586.28,0.1,415.96,Retail Store,Consumer,1172.56,1055.3,831.92,223.38,21.17,2025-06,2025Q2
+ORD-00074,2025-02-17,Cairo,Cairo,Accessories,USB-C Dock,2,111.96,0.0,71.07,Corporate,Consumer,223.92,223.92,142.14,81.78,36.52,2025-02,2025Q1
+ORD-00075,2025-09-08,Cairo,New Cairo,Laptop,WorkMate 15,1,693.96,0.1,513.41,Retail Store,Small Business,693.96,624.56,513.41,111.15,17.8,2025-09,2025Q3
+ORD-00076,2025-06-23,Cairo,New Cairo,Mobile,SmartOne Lite,3,400.88,0.0,287.97,Online,Enterprise,1202.64,1202.64,863.91,338.73,28.17,2025-06,2025Q2
+ORD-00077,2025-05-01,Delta,Zagazig,Laptop,WorkMate 15,3,714.65,0.0,518.92,Retail Store,Consumer,2143.95,2143.95,1556.76,587.19,27.39,2025-05,2025Q2
+ORD-00078,2025-03-24,Delta,Zagazig,Laptop,WorkMate 15,2,722.65,0.0,529.18,Online,Enterprise,1445.3,1445.3,1058.36,386.94,26.77,2025-03,2025Q1
+ORD-00079,2025-07-26,Delta,Zagazig,Monitor,ViewPro 27 QHD,3,317.29,0.0,226.71,Online,Consumer,951.87,951.87,680.13,271.74,28.55,2025-07,2025Q3
+ORD-00080,2025-09-02,Delta,Tanta,Accessories,Ergonomic Mouse,2,37.48,0.0,19.41,Retail Store,Consumer,74.96,74.96,38.82,36.14,48.21,2025-09,2025Q3
+ORD-00081,2025-12-10,Delta,Tanta,Mobile,SmartOne Lite,1,463.53,0.05,284.55,Online,Enterprise,463.53,440.35,284.55,155.8,35.38,2025-12,2025Q4
+ORD-00082,2025-06-09,Cairo,Giza,Mobile,Connect X,1,609.57,0.05,423.9,Retail Store,Small Business,609.57,579.09,423.9,155.19,26.8,2025-06,2025Q2
+ORD-00083,2025-02-28,Delta,Tanta,Mobile,SmartOne Lite,1,425.2,0.1,287.64,Online,Consumer,425.2,382.68,287.64,95.04,24.84,2025-02,2025Q1
+ORD-00084,2025-10-31,Cairo,Giza,Accessories,Ergonomic Mouse,3,38.21,0.0,19.04,Retail Store,Consumer,114.63,114.63,57.12,57.51,50.17,2025-10,2025Q4
+ORD-00085,2025-08-18,Cairo,Giza,Monitor,ViewPro 24,3,181.69,0.0,123.5,Retail Store,Small Business,545.07,545.07,370.5,174.57,32.03,2025-08,2025Q3
+ORD-00086,2025-09-13,Delta,Zagazig,Monitor,ViewPro 27 QHD,2,326.5,0.0,222.71,Online,Consumer,653.0,653.0,445.42,207.58,31.79,2025-09,2025Q3
+ORD-00087,2025-02-05,Delta,Tanta,Mobile,Connect X,1,597.81,0.05,420.77,Retail Store,Consumer,597.81,567.92,420.77,147.15,25.91,2025-02,2025Q1
+ORD-00088,2025-04-25,Cairo,Giza,Mobile,SmartOne Lite,2,398.88,0.15,280.72,Online,Consumer,797.76,678.1,561.44,116.66,17.2,2025-04,2025Q2
+ORD-00089,2025-10-08,Delta,Tanta,Mobile,SmartOne Lite,3,421.43,0.05,287.07,Corporate,Consumer,1264.29,1201.08,861.21,339.87,28.3,2025-10,2025Q4
+ORD-00090,2025-10-31,Delta,Zagazig,Accessories,USB-C Dock,2,119.01,0.0,70.65,Online,Consumer,238.02,238.02,141.3,96.72,40.64,2025-10,2025Q4
+ORD-00091,2025-06-08,Alexandria,Alexandria,Mobile,SmartOne Lite,2,407.3,0.0,281.67,Retail Store,Enterprise,814.6,814.6,563.34,251.26,30.84,2025-06,2025Q2
+ORD-00092,2025-10-21,Delta,Tanta,Accessories,Ergonomic Mouse,5,38.6,0.1,18.74,Online,Consumer,193.0,173.7,93.7,80.0,46.06,2025-10,2025Q4
+ORD-00093,2025-11-04,Delta,Mansoura,Mobile,Connect X,3,684.95,0.05,415.23,Retail Store,Consumer,2054.85,1952.11,1245.69,706.42,36.19,2025-11,2025Q4
+ORD-00094,2025-05-22,Cairo,Cairo,Mobile,SmartOne Lite,3,401.84,0.05,288.05,Online,Enterprise,1205.52,1145.24,864.15,281.09,24.54,2025-05,2025Q2
+ORD-00095,2025-11-24,Alexandria,Alexandria,Mobile,Connect X,3,663.77,0.0,422.74,Online,Small Business,1991.31,1991.31,1268.22,723.09,36.31,2025-11,2025Q4
+ORD-00096,2025-04-16,Delta,Zagazig,Mobile,SmartOne Lite,2,421.32,0.15,292.16,Online,Enterprise,842.64,716.24,584.32,131.92,18.42,2025-04,2025Q2
+ORD-00097,2025-03-29,Delta,Tanta,Laptop,WorkMate 15,2,709.7,0.0,519.13,Online,Consumer,1419.4,1419.4,1038.26,381.14,26.85,2025-03,2025Q1
+ORD-00098,2025-09-07,Delta,Mansoura,Laptop,NovaBook 14,2,854.05,0.0,640.24,Online,Consumer,1708.1,1708.1,1280.48,427.62,25.03,2025-09,2025Q3
+ORD-00099,2025-08-21,Cairo,New Cairo,Accessories,USB-C Dock,2,118.17,0.05,71.27,Retail Store,Small Business,236.34,224.52,142.54,81.98,36.51,2025-08,2025Q3
+ORD-00100,2025-02-21,Delta,Zagazig,Mobile,Connect X,2,584.32,0.1,424.99,Retail Store,Small Business,1168.64,1051.78,849.98,201.8,19.19,2025-02,2025Q1
+ORD-00101,2025-10-31,Alexandria,Alexandria,Laptop,NovaBook 14,3,849.5,0.05,637.93,Corporate,Consumer,2548.5,2421.07,1913.79,507.28,20.95,2025-10,2025Q4
+ORD-00102,2025-03-14,Upper Egypt,Assiut,Accessories,Ergonomic Mouse,4,38.36,0.1,18.72,Online,Consumer,153.44,138.1,74.88,63.22,45.78,2025-03,2025Q1
+ORD-00103,2025-10-21,Upper Egypt,Sohag,Accessories,USB-C Dock,2,115.51,0.1,73.46,Retail Store,Consumer,231.02,207.92,146.92,61.0,29.34,2025-10,2025Q4
+ORD-00104,2025-01-03,Delta,Mansoura,Laptop,NovaBook 14,1,861.05,0.0,626.48,Retail Store,Consumer,861.05,861.05,626.48,234.57,27.24,2025-01,2025Q1
+ORD-00105,2025-10-18,Delta,Mansoura,Accessories,Wireless Keyboard,3,53.42,0.0,29.5,Corporate,Consumer,160.26,160.26,88.5,71.76,44.78,2025-10,2025Q4
+ORD-00106,2025-10-15,Alexandria,Borg El Arab,Monitor,CreatorView 32,3,525.61,0.0,378.82,Retail Store,Consumer,1576.83,1576.83,1136.46,440.37,27.93,2025-10,2025Q4
+ORD-00107,2025-10-12,Cairo,Cairo,Accessories,Ergonomic Mouse,3,39.38,0.1,18.98,Corporate,Consumer,118.14,106.33,56.94,49.39,46.45,2025-10,2025Q4
+ORD-00108,2025-08-31,Alexandria,Alexandria,Accessories,Noise-Canceling Headset,5,148.97,0.1,86.38,Retail Store,Consumer,744.85,670.36,431.9,238.47,35.57,2025-08,2025Q3
+ORD-00109,2025-06-22,Delta,Mansoura,Laptop,NovaBook 14,2,872.83,0.0,634.67,Online,Consumer,1745.66,1745.66,1269.34,476.32,27.29,2025-06,2025Q2
+ORD-00110,2025-09-15,Cairo,Cairo,Monitor,CreatorView 32,1,527.8,0.0,391.9,Online,Small Business,527.8,527.8,391.9,135.9,25.75,2025-09,2025Q3
+ORD-00111,2025-04-12,Cairo,Giza,Mobile,Connect X,1,593.08,0.0,427.26,Retail Store,Small Business,593.08,593.08,427.26,165.82,27.96,2025-04,2025Q2
+ORD-00112,2025-10-12,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,2,313.38,0.05,224.12,Retail Store,Consumer,626.76,595.42,448.24,147.18,24.72,2025-10,2025Q4
+ORD-00113,2025-07-22,Cairo,Cairo,Accessories,Wireless Keyboard,2,53.69,0.0,28.42,Online,Consumer,107.38,107.38,56.84,50.54,47.07,2025-07,2025Q3
+ORD-00114,2025-06-17,Cairo,Giza,Laptop,CreatorBook 16,1,1322.91,0.05,949.51,Retail Store,Consumer,1322.91,1256.76,949.51,307.25,24.45,2025-06,2025Q2
+ORD-00115,2025-07-04,Cairo,Giza,Laptop,NovaBook 14,3,834.91,0.0,636.4,Online,Consumer,2504.73,2504.73,1909.2,595.53,23.78,2025-07,2025Q3
+ORD-00116,2025-07-27,Cairo,Cairo,Accessories,Noise-Canceling Headset,5,145.69,0.05,86.38,Corporate,Consumer,728.45,692.03,431.9,260.13,37.59,2025-07,2025Q3
+ORD-00117,2025-01-14,Cairo,Giza,Accessories,USB-C Dock,5,117.97,0.05,73.69,Retail Store,Small Business,589.85,560.36,368.45,191.91,34.25,2025-01,2025Q1
+ORD-00118,2025-02-21,Alexandria,Alexandria,Laptop,WorkMate 15,2,734.38,0.0,507.29,Corporate,Consumer,1468.76,1468.76,1014.58,454.18,30.92,2025-02,2025Q1
+ORD-00119,2025-03-31,Cairo,Cairo,Accessories,Wireless Keyboard,4,53.5,0.0,29.86,Corporate,Consumer,214.0,214.0,119.44,94.56,44.19,2025-03,2025Q1
+ORD-00120,2025-02-11,Alexandria,Borg El Arab,Monitor,CreatorView 32,2,531.85,0.0,380.14,Online,Consumer,1063.7,1063.7,760.28,303.42,28.52,2025-02,2025Q1
+ORD-00121,2025-06-10,Alexandria,Alexandria,Mobile,SmartOne Lite,1,400.67,0.0,288.39,Retail Store,Small Business,400.67,400.67,288.39,112.28,28.02,2025-06,2025Q2
+ORD-00122,2025-09-01,Cairo,Giza,Mobile,SmartOne Pro,2,786.04,0.1,559.58,Online,Small Business,1572.08,1414.87,1119.16,295.71,20.9,2025-09,2025Q3
+ORD-00123,2025-08-27,Cairo,New Cairo,Laptop,NovaBook 14,3,874.87,0.05,630.61,Retail Store,Small Business,2624.61,2493.38,1891.83,601.55,24.13,2025-08,2025Q3
+ORD-00124,2025-06-21,Delta,Tanta,Accessories,Ergonomic Mouse,4,39.52,0.05,19.09,Online,Consumer,158.08,150.18,76.36,73.82,49.15,2025-06,2025Q2
+ORD-00125,2025-11-09,Cairo,Cairo,Mobile,SmartOne Lite,1,468.92,0.0,281.92,Corporate,Small Business,468.92,468.92,281.92,187.0,39.88,2025-11,2025Q4
+ORD-00126,2025-07-26,Cairo,Giza,Monitor,ViewPro 24,2,179.97,0.0,121.7,Retail Store,Consumer,359.94,359.94,243.4,116.54,32.38,2025-07,2025Q3
+ORD-00127,2025-01-29,Upper Egypt,Minya,Mobile,SmartOne Pro,3,772.31,0.0,552.61,Corporate,Small Business,2316.93,2316.93,1657.83,659.1,28.45,2025-01,2025Q1
+ORD-00128,2025-10-07,Upper Egypt,Minya,Accessories,Noise-Canceling Headset,5,145.37,0.05,87.21,Online,Consumer,726.85,690.51,436.05,254.46,36.85,2025-10,2025Q4
+ORD-00129,2025-07-29,Alexandria,Borg El Arab,Laptop,CreatorBook 16,2,1356.76,0.05,973.62,Online,Consumer,2713.52,2577.84,1947.24,630.6,24.46,2025-07,2025Q3
+ORD-00130,2025-08-20,Cairo,Giza,Laptop,CreatorBook 16,2,1284.62,0.0,978.57,Online,Consumer,2569.24,2569.24,1957.14,612.1,23.82,2025-08,2025Q3
+ORD-00131,2025-07-26,Alexandria,Borg El Arab,Accessories,Ergonomic Mouse,3,37.48,0.05,18.68,Online,Consumer,112.44,106.82,56.04,50.78,47.54,2025-07,2025Q3
+ORD-00132,2025-07-22,Alexandria,Borg El Arab,Mobile,SmartOne Lite,2,421.09,0.1,283.87,Retail Store,Consumer,842.18,757.96,567.74,190.22,25.1,2025-07,2025Q3
+ORD-00133,2025-02-03,Cairo,Cairo,Mobile,SmartOne Pro,3,781.6,0.0,545.39,Online,Consumer,2344.8,2344.8,1636.17,708.63,30.22,2025-02,2025Q1
+ORD-00134,2025-07-24,Delta,Mansoura,Monitor,ViewPro 24,2,181.05,0.1,124.06,Online,Small Business,362.1,325.89,248.12,77.77,23.86,2025-07,2025Q3
+ORD-00135,2025-10-18,Cairo,New Cairo,Monitor,CreatorView 32,2,505.14,0.0,378.13,Online,Consumer,1010.28,1010.28,756.26,254.02,25.14,2025-10,2025Q4
+ORD-00136,2025-04-21,Cairo,Cairo,Monitor,ViewPro 24,1,186.3,0.0,121.53,Retail Store,Consumer,186.3,186.3,121.53,64.77,34.77,2025-04,2025Q2
+ORD-00137,2025-08-09,Delta,Mansoura,Laptop,CreatorBook 16,2,1300.9,0.1,941.96,Online,Consumer,2601.8,2341.62,1883.92,457.7,19.55,2025-08,2025Q3
+ORD-00138,2025-01-12,Cairo,Giza,Accessories,Wireless Keyboard,4,54.01,0.15,29.32,Online,Enterprise,216.04,183.63,117.28,66.35,36.13,2025-01,2025Q1
+ORD-00139,2025-05-07,Cairo,Giza,Monitor,ViewPro 27 QHD,1,319.29,0.0,224.22,Online,Enterprise,319.29,319.29,224.22,95.07,29.78,2025-05,2025Q2
+ORD-00140,2025-06-09,Alexandria,Borg El Arab,Mobile,Connect X,1,587.96,0.0,420.16,Corporate,Consumer,587.96,587.96,420.16,167.8,28.54,2025-06,2025Q2
+ORD-00141,2025-12-25,Upper Egypt,Assiut,Laptop,CreatorBook 16,3,1449.49,0.05,966.4,Online,Consumer,4348.47,4131.05,2899.2,1231.85,29.82,2025-12,2025Q4
+ORD-00142,2025-03-20,Delta,Zagazig,Accessories,Ergonomic Mouse,2,39.13,0.15,18.65,Online,Consumer,78.26,66.52,37.3,29.22,43.93,2025-03,2025Q1
+ORD-00143,2025-04-11,Alexandria,Alexandria,Mobile,SmartOne Pro,3,759.88,0.05,550.17,Online,Small Business,2279.64,2165.66,1650.51,515.15,23.79,2025-04,2025Q2
+ORD-00144,2025-05-30,Upper Egypt,Sohag,Accessories,USB-C Dock,5,116.33,0.1,71.31,Retail Store,Consumer,581.65,523.48,356.55,166.94,31.89,2025-05,2025Q2
+ORD-00145,2025-12-29,Cairo,Cairo,Monitor,CreatorView 32,1,568.43,0.0,378.04,Online,Small Business,568.43,568.43,378.04,190.39,33.49,2025-12,2025Q4
+ORD-00146,2025-11-08,Delta,Mansoura,Accessories,Noise-Canceling Headset,4,159.45,0.0,87.49,Retail Store,Enterprise,637.8,637.8,349.96,287.84,45.13,2025-11,2025Q4
+ORD-00147,2025-01-13,Cairo,Giza,Mobile,SmartOne Lite,3,402.11,0.0,290.37,Retail Store,Consumer,1206.33,1206.33,871.11,335.22,27.79,2025-01,2025Q1
+ORD-00148,2025-03-27,Cairo,Cairo,Mobile,Connect X,1,578.79,0.1,406.95,Retail Store,Enterprise,578.79,520.91,406.95,113.96,21.88,2025-03,2025Q1
+ORD-00149,2025-10-27,Alexandria,Alexandria,Mobile,Connect X,1,596.76,0.05,412.04,Online,Consumer,596.76,566.92,412.04,154.88,27.32,2025-10,2025Q4
+ORD-00150,2025-01-22,Delta,Mansoura,Laptop,NovaBook 14,1,835.41,0.0,627.16,Corporate,Consumer,835.41,835.41,627.16,208.25,24.93,2025-01,2025Q1
+ORD-00151,2025-11-09,Delta,Mansoura,Accessories,Ergonomic Mouse,5,43.23,0.05,19.29,Retail Store,Consumer,216.15,205.34,96.45,108.89,53.03,2025-11,2025Q4
+ORD-00152,2025-04-13,Cairo,Cairo,Monitor,CreatorView 32,1,508.02,0.0,384.93,Online,Consumer,508.02,508.02,384.93,123.09,24.23,2025-04,2025Q2
+ORD-00153,2025-12-01,Cairo,Cairo,Mobile,Connect X,1,669.21,0.1,423.11,Retail Store,Consumer,669.21,602.29,423.11,179.18,29.75,2025-12,2025Q4
+ORD-00154,2025-04-18,Upper Egypt,Assiut,Mobile,SmartOne Pro,1,782.42,0.15,551.95,Online,Small Business,782.42,665.06,551.95,113.11,17.01,2025-04,2025Q2
+ORD-00155,2025-06-08,Cairo,Giza,Monitor,ViewPro 27 QHD,2,310.95,0.0,227.87,Retail Store,Consumer,621.9,621.9,455.74,166.16,26.72,2025-06,2025Q2
+ORD-00156,2025-08-30,Cairo,Cairo,Laptop,WorkMate 15,1,692.65,0.1,524.03,Retail Store,Small Business,692.65,623.38,524.03,99.36,15.94,2025-08,2025Q3
+ORD-00157,2025-02-16,Cairo,Giza,Mobile,SmartOne Lite,1,418.05,0.0,292.81,Online,Consumer,418.05,418.05,292.81,125.24,29.96,2025-02,2025Q1
+ORD-00158,2025-07-23,Delta,Mansoura,Mobile,SmartOne Pro,1,797.13,0.0,547.02,Online,Consumer,797.13,797.13,547.02,250.11,31.38,2025-07,2025Q3
+ORD-00159,2025-07-04,Delta,Mansoura,Accessories,Noise-Canceling Headset,5,146.76,0.1,87.9,Online,Consumer,733.8,660.42,439.5,220.92,33.45,2025-07,2025Q3
+ORD-00160,2025-10-14,Delta,Mansoura,Laptop,NovaBook 14,3,883.13,0.0,634.57,Online,Small Business,2649.39,2649.39,1903.71,745.68,28.15,2025-10,2025Q4
+ORD-00161,2025-12-30,Cairo,Giza,Accessories,Noise-Canceling Headset,2,168.04,0.0,89.6,Corporate,Consumer,336.08,336.08,179.2,156.88,46.68,2025-12,2025Q4
+ORD-00162,2025-08-31,Cairo,Cairo,Mobile,Connect X,3,598.84,0.1,425.76,Online,Small Business,1796.52,1616.87,1277.28,339.59,21.0,2025-08,2025Q3
+ORD-00163,2025-05-30,Alexandria,Alexandria,Accessories,Wireless Keyboard,4,52.68,0.05,29.14,Online,Consumer,210.72,200.18,116.56,83.62,41.77,2025-05,2025Q2
+ORD-00164,2025-05-29,Delta,Tanta,Laptop,NovaBook 14,1,860.07,0.1,626.31,Online,Consumer,860.07,774.06,626.31,147.75,19.09,2025-05,2025Q2
+ORD-00165,2025-06-02,Delta,Tanta,Mobile,Connect X,2,579.81,0.0,421.88,Corporate,Small Business,1159.62,1159.62,843.76,315.86,27.24,2025-06,2025Q2
+ORD-00166,2025-10-25,Alexandria,Borg El Arab,Mobile,SmartOne Pro,1,796.11,0.0,557.78,Retail Store,Consumer,796.11,796.11,557.78,238.33,29.94,2025-10,2025Q4
+ORD-00167,2025-04-28,Alexandria,Alexandria,Laptop,WorkMate 15,1,699.73,0.05,507.63,Retail Store,Consumer,699.73,664.74,507.63,157.11,23.64,2025-04,2025Q2
+ORD-00168,2025-03-02,Cairo,Giza,Laptop,WorkMate 15,3,698.9,0.1,516.38,Corporate,Enterprise,2096.7,1887.03,1549.14,337.89,17.91,2025-03,2025Q1
+ORD-00169,2025-05-03,Cairo,Cairo,Laptop,NovaBook 14,3,881.89,0.0,627.05,Online,Consumer,2645.67,2645.67,1881.15,764.52,28.9,2025-05,2025Q2
+ORD-00170,2025-01-09,Delta,Tanta,Mobile,SmartOne Pro,1,765.88,0.15,560.07,Retail Store,Small Business,765.88,651.0,560.07,90.93,13.97,2025-01,2025Q1
+ORD-00171,2025-02-08,Cairo,Cairo,Laptop,NovaBook 14,3,844.22,0.0,632.7,Online,Consumer,2532.66,2532.66,1898.1,634.56,25.06,2025-02,2025Q1
+ORD-00172,2025-02-02,Alexandria,Alexandria,Monitor,CreatorView 32,1,530.29,0.05,385.89,Online,Small Business,530.29,503.78,385.89,117.89,23.4,2025-02,2025Q1
+ORD-00173,2025-10-09,Delta,Zagazig,Mobile,Connect X,1,583.57,0.0,410.07,Retail Store,Consumer,583.57,583.57,410.07,173.5,29.73,2025-10,2025Q4
+ORD-00174,2025-09-21,Alexandria,Alexandria,Accessories,Ergonomic Mouse,2,37.37,0.05,19.13,Corporate,Consumer,74.74,71.0,38.26,32.74,46.11,2025-09,2025Q3
+ORD-00175,2025-09-12,Alexandria,Borg El Arab,Monitor,ViewPro 24,3,180.72,0.05,121.79,Corporate,Consumer,542.16,515.05,365.37,149.68,29.06,2025-09,2025Q3
+ORD-00176,2025-06-18,Delta,Tanta,Laptop,WorkMate 15,1,727.31,0.0,514.4,Corporate,Consumer,727.31,727.31,514.4,212.91,29.27,2025-06,2025Q2
+ORD-00177,2025-09-19,Upper Egypt,Assiut,Accessories,Ergonomic Mouse,5,38.56,0.05,19.32,Online,Consumer,192.8,183.16,96.6,86.56,47.26,2025-09,2025Q3
+ORD-00178,2025-02-28,Delta,Tanta,Monitor,CreatorView 32,3,526.19,0.0,380.12,Online,Consumer,1578.57,1578.57,1140.36,438.21,27.76,2025-02,2025Q1
+ORD-00179,2025-11-25,Alexandria,Alexandria,Accessories,Noise-Canceling Headset,1,167.94,0.15,87.61,Online,Small Business,167.94,142.75,87.61,55.14,38.63,2025-11,2025Q4
+ORD-00180,2025-07-02,Cairo,Cairo,Mobile,Connect X,1,597.11,0.0,421.03,Online,Consumer,597.11,597.11,421.03,176.08,29.49,2025-07,2025Q3
+ORD-00181,2025-12-09,Delta,Mansoura,Mobile,SmartOne Pro,3,888.49,0.15,553.47,Online,Small Business,2665.47,2265.65,1660.41,605.24,26.71,2025-12,2025Q4
+ORD-00182,2025-02-25,Delta,Mansoura,Laptop,WorkMate 15,1,706.82,0.1,504.81,Online,Consumer,706.82,636.14,504.81,131.33,20.64,2025-02,2025Q1
+ORD-00183,2025-07-01,Cairo,Cairo,Mobile,Connect X,1,574.68,0.05,408.37,Online,Consumer,574.68,545.95,408.37,137.58,25.2,2025-07,2025Q3
+ORD-00184,2025-09-12,Cairo,Giza,Monitor,CreatorView 32,1,511.5,0.05,373.89,Retail Store,Consumer,511.5,485.92,373.89,112.03,23.06,2025-09,2025Q3
+ORD-00185,2025-06-30,Upper Egypt,Sohag,Monitor,ViewPro 24,2,180.67,0.1,122.48,Corporate,Enterprise,361.34,325.21,244.96,80.25,24.68,2025-06,2025Q2
+ORD-00186,2025-06-12,Delta,Mansoura,Laptop,WorkMate 15,3,720.97,0.0,528.6,Online,Consumer,2162.91,2162.91,1585.8,577.11,26.68,2025-06,2025Q2
+ORD-00187,2025-03-02,Cairo,New Cairo,Accessories,Noise-Canceling Headset,1,144.22,0.1,89.33,Online,Small Business,144.22,129.8,89.33,40.47,31.18,2025-03,2025Q1
+ORD-00188,2025-05-20,Cairo,Cairo,Mobile,SmartOne Lite,3,407.88,0.0,279.49,Online,Small Business,1223.64,1223.64,838.47,385.17,31.48,2025-05,2025Q2
+ORD-00189,2025-03-29,Cairo,New Cairo,Monitor,ViewPro 24,3,188.46,0.1,122.38,Online,Small Business,565.38,508.84,367.14,141.7,27.85,2025-03,2025Q1
+ORD-00190,2025-04-21,Cairo,Cairo,Laptop,WorkMate 15,1,712.73,0.0,516.01,Online,Consumer,712.73,712.73,516.01,196.72,27.6,2025-04,2025Q2
+ORD-00191,2025-09-07,Upper Egypt,Minya,Monitor,ViewPro 24,1,191.81,0.0,123.29,Corporate,Consumer,191.81,191.81,123.29,68.52,35.72,2025-09,2025Q3
+ORD-00192,2025-08-19,Delta,Tanta,Monitor,ViewPro 24,1,191.35,0.05,123.38,Online,Small Business,191.35,181.78,123.38,58.4,32.13,2025-08,2025Q3
+ORD-00193,2025-08-10,Cairo,Giza,Laptop,CreatorBook 16,3,1324.07,0.05,987.43,Retail Store,Consumer,3972.21,3773.6,2962.29,811.31,21.5,2025-08,2025Q3
+ORD-00194,2025-05-13,Delta,Tanta,Laptop,NovaBook 14,3,872.34,0.05,615.67,Online,Consumer,2617.02,2486.17,1847.01,639.16,25.71,2025-05,2025Q2
+ORD-00195,2025-12-17,Cairo,Cairo,Monitor,ViewPro 24,3,202.03,0.0,124.48,Online,Small Business,606.09,606.09,373.44,232.65,38.39,2025-12,2025Q4
+ORD-00196,2025-02-01,Cairo,New Cairo,Laptop,NovaBook 14,3,881.12,0.05,616.88,Retail Store,Small Business,2643.36,2511.19,1850.64,660.55,26.3,2025-02,2025Q1
+ORD-00197,2025-05-06,Alexandria,Alexandria,Mobile,SmartOne Lite,3,421.23,0.0,286.19,Online,Small Business,1263.69,1263.69,858.57,405.12,32.06,2025-05,2025Q2
+ORD-00198,2025-02-13,Delta,Tanta,Monitor,ViewPro 24,1,179.89,0.0,123.23,Retail Store,Small Business,179.89,179.89,123.23,56.66,31.5,2025-02,2025Q1
+ORD-00199,2025-05-04,Upper Egypt,Sohag,Accessories,Wireless Keyboard,3,50.77,0.0,29.05,Retail Store,Consumer,152.31,152.31,87.15,65.16,42.78,2025-05,2025Q2
+ORD-00200,2025-12-18,Delta,Zagazig,Mobile,Connect X,2,663.5,0.0,426.75,Retail Store,Consumer,1327.0,1327.0,853.5,473.5,35.68,2025-12,2025Q4
+ORD-00201,2025-05-14,Delta,Tanta,Mobile,SmartOne Pro,3,774.03,0.15,541.07,Online,Consumer,2322.09,1973.78,1623.21,350.57,17.76,2025-05,2025Q2
+ORD-00202,2025-11-28,Alexandria,Alexandria,Laptop,WorkMate 15,1,772.76,0.1,520.14,Corporate,Consumer,772.76,695.48,520.14,175.34,25.21,2025-11,2025Q4
+ORD-00203,2025-06-30,Upper Egypt,Minya,Monitor,CreatorView 32,2,515.02,0.05,374.6,Online,Consumer,1030.04,978.54,749.2,229.34,23.44,2025-06,2025Q2
+ORD-00204,2025-09-13,Alexandria,Borg El Arab,Mobile,SmartOne Pro,3,757.28,0.1,545.93,Retail Store,Small Business,2271.84,2044.66,1637.79,406.87,19.9,2025-09,2025Q3
+ORD-00205,2025-06-16,Upper Egypt,Assiut,Laptop,WorkMate 15,2,730.88,0.0,517.74,Online,Consumer,1461.76,1461.76,1035.48,426.28,29.16,2025-06,2025Q2
+ORD-00206,2025-04-08,Alexandria,Alexandria,Mobile,Connect X,1,582.32,0.0,414.31,Corporate,Consumer,582.32,582.32,414.31,168.01,28.85,2025-04,2025Q2
+ORD-00207,2025-10-06,Alexandria,Alexandria,Monitor,CreatorView 32,2,516.78,0.0,389.03,Retail Store,Small Business,1033.56,1033.56,778.06,255.5,24.72,2025-10,2025Q4
+ORD-00208,2025-12-20,Cairo,New Cairo,Laptop,NovaBook 14,3,976.45,0.0,630.93,Online,Consumer,2929.35,2929.35,1892.79,1036.56,35.39,2025-12,2025Q4
+ORD-00209,2025-04-07,Alexandria,Borg El Arab,Monitor,CreatorView 32,1,516.37,0.0,382.82,Retail Store,Small Business,516.37,516.37,382.82,133.55,25.86,2025-04,2025Q2
+ORD-00210,2025-10-12,Delta,Mansoura,Accessories,USB-C Dock,1,116.92,0.05,71.71,Retail Store,Consumer,116.92,111.07,71.71,39.36,35.44,2025-10,2025Q4
+ORD-00211,2025-04-06,Delta,Mansoura,Monitor,CreatorView 32,1,529.66,0.0,385.71,Corporate,Consumer,529.66,529.66,385.71,143.95,27.18,2025-04,2025Q2
+ORD-00212,2025-09-19,Delta,Mansoura,Monitor,ViewPro 27 QHD,2,324.41,0.0,221.35,Online,Enterprise,648.82,648.82,442.7,206.12,31.77,2025-09,2025Q3
+ORD-00213,2025-10-15,Upper Egypt,Sohag,Monitor,ViewPro 27 QHD,2,326.59,0.1,222.73,Retail Store,Consumer,653.18,587.86,445.46,142.4,24.22,2025-10,2025Q4
+ORD-00214,2025-06-14,Upper Egypt,Minya,Monitor,CreatorView 32,3,529.34,0.0,383.84,Online,Consumer,1588.02,1588.02,1151.52,436.5,27.49,2025-06,2025Q2
+ORD-00215,2025-09-26,Cairo,New Cairo,Laptop,CreatorBook 16,3,1370.41,0.05,942.16,Online,Consumer,4111.23,3905.67,2826.48,1079.19,27.63,2025-09,2025Q3
+ORD-00216,2025-04-10,Alexandria,Alexandria,Accessories,Noise-Canceling Headset,5,147.67,0.1,89.09,Retail Store,Enterprise,738.35,664.52,445.45,219.06,32.97,2025-04,2025Q2
+ORD-00217,2025-01-29,Alexandria,Borg El Arab,Mobile,SmartOne Pro,3,800.96,0.0,548.16,Online,Small Business,2402.88,2402.88,1644.48,758.4,31.56,2025-01,2025Q1
+ORD-00218,2025-02-05,Cairo,Cairo,Mobile,SmartOne Lite,2,401.55,0.0,286.58,Online,Small Business,803.1,803.1,573.16,229.94,28.63,2025-02,2025Q1
+ORD-00219,2025-06-13,Cairo,Giza,Monitor,ViewPro 24,3,180.19,0.1,126.79,Retail Store,Consumer,540.57,486.51,380.37,106.14,21.82,2025-06,2025Q2
+ORD-00220,2025-11-26,Cairo,Cairo,Monitor,ViewPro 27 QHD,3,346.02,0.1,225.44,Corporate,Small Business,1038.06,934.25,676.32,257.93,27.61,2025-11,2025Q4
+ORD-00221,2025-02-16,Alexandria,Borg El Arab,Accessories,USB-C Dock,3,116.04,0.0,74.1,Retail Store,Consumer,348.12,348.12,222.3,125.82,36.14,2025-02,2025Q1
+ORD-00222,2025-06-16,Delta,Mansoura,Mobile,SmartOne Pro,2,774.2,0.0,534.29,Online,Consumer,1548.4,1548.4,1068.58,479.82,30.99,2025-06,2025Q2
+ORD-00223,2025-09-14,Upper Egypt,Minya,Mobile,Connect X,2,608.6,0.05,413.69,Online,Small Business,1217.2,1156.34,827.38,328.96,28.45,2025-09,2025Q3
+ORD-00224,2025-03-15,Delta,Tanta,Mobile,Connect X,2,600.87,0.0,418.3,Corporate,Small Business,1201.74,1201.74,836.6,365.14,30.38,2025-03,2025Q1
+ORD-00225,2025-09-21,Upper Egypt,Assiut,Mobile,SmartOne Pro,3,805.87,0.1,534.66,Retail Store,Consumer,2417.61,2175.85,1603.98,571.87,26.28,2025-09,2025Q3
+ORD-00226,2025-04-22,Delta,Zagazig,Mobile,SmartOne Lite,1,405.97,0.05,290.01,Online,Consumer,405.97,385.67,290.01,95.66,24.8,2025-04,2025Q2
+ORD-00227,2025-10-23,Alexandria,Alexandria,Laptop,WorkMate 15,3,710.53,0.05,516.21,Retail Store,Consumer,2131.59,2025.01,1548.63,476.38,23.52,2025-10,2025Q4
+ORD-00228,2025-07-31,Cairo,New Cairo,Laptop,CreatorBook 16,1,1356.79,0.05,984.43,Retail Store,Small Business,1356.79,1288.95,984.43,304.52,23.63,2025-07,2025Q3
+ORD-00229,2025-07-19,Delta,Tanta,Accessories,Wireless Keyboard,5,52.49,0.05,29.43,Retail Store,Consumer,262.45,249.33,147.15,102.18,40.98,2025-07,2025Q3
+ORD-00230,2025-03-06,Alexandria,Alexandria,Mobile,Connect X,3,592.88,0.1,418.91,Retail Store,Consumer,1778.64,1600.78,1256.73,344.05,21.49,2025-03,2025Q1
+ORD-00231,2025-06-19,Upper Egypt,Sohag,Monitor,ViewPro 27 QHD,3,321.36,0.0,228.01,Online,Consumer,964.08,964.08,684.03,280.05,29.05,2025-06,2025Q2
+ORD-00232,2025-11-09,Alexandria,Borg El Arab,Accessories,Noise-Canceling Headset,5,157.54,0.05,89.08,Retail Store,Small Business,787.7,748.32,445.4,302.91,40.48,2025-11,2025Q4
+ORD-00233,2025-01-08,Cairo,Cairo,Laptop,CreatorBook 16,3,1306.09,0.05,986.84,Corporate,Enterprise,3918.27,3722.36,2960.52,761.84,20.47,2025-01,2025Q1
+ORD-00234,2025-10-04,Cairo,Cairo,Laptop,WorkMate 15,3,726.24,0.05,520.39,Retail Store,Consumer,2178.72,2069.78,1561.17,508.61,24.57,2025-10,2025Q4
+ORD-00235,2025-06-29,Cairo,New Cairo,Laptop,CreatorBook 16,3,1290.53,0.0,959.09,Online,Consumer,3871.59,3871.59,2877.27,994.32,25.68,2025-06,2025Q2
+ORD-00236,2025-09-20,Cairo,Cairo,Monitor,ViewPro 27 QHD,2,324.02,0.0,224.95,Retail Store,Consumer,648.04,648.04,449.9,198.14,30.58,2025-09,2025Q3
+ORD-00237,2025-08-31,Alexandria,Borg El Arab,Laptop,CreatorBook 16,3,1353.89,0.05,951.76,Online,Enterprise,4061.67,3858.59,2855.28,1003.31,26.0,2025-08,2025Q3
+ORD-00238,2025-06-07,Alexandria,Alexandria,Mobile,SmartOne Pro,2,786.31,0.0,558.24,Retail Store,Consumer,1572.62,1572.62,1116.48,456.14,29.01,2025-06,2025Q2
+ORD-00239,2025-04-23,Alexandria,Borg El Arab,Monitor,CreatorView 32,3,508.57,0.1,389.61,Online,Consumer,1525.71,1373.14,1168.83,204.31,14.88,2025-04,2025Q2
+ORD-00240,2025-08-17,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,3,312.0,0.1,228.47,Retail Store,Consumer,936.0,842.4,685.41,156.99,18.64,2025-08,2025Q3
+ORD-00241,2025-02-21,Alexandria,Alexandria,Laptop,CreatorBook 16,3,1326.96,0.0,984.22,Retail Store,Small Business,3980.88,3980.88,2952.66,1028.22,25.83,2025-02,2025Q1
+ORD-00242,2025-08-02,Alexandria,Alexandria,Laptop,WorkMate 15,1,712.7,0.05,526.26,Online,Consumer,712.7,677.06,526.26,150.81,22.27,2025-08,2025Q3
+ORD-00243,2025-02-04,Cairo,Giza,Laptop,WorkMate 15,2,704.72,0.1,514.67,Retail Store,Consumer,1409.44,1268.5,1029.34,239.16,18.85,2025-02,2025Q1
+ORD-00244,2025-08-26,Cairo,Giza,Laptop,NovaBook 14,2,870.06,0.05,637.25,Corporate,Small Business,1740.12,1653.11,1274.5,378.61,22.9,2025-08,2025Q3
+ORD-00245,2025-08-18,Delta,Mansoura,Laptop,WorkMate 15,2,712.77,0.0,524.77,Online,Small Business,1425.54,1425.54,1049.54,376.0,26.38,2025-08,2025Q3
+ORD-00246,2025-01-31,Alexandria,Borg El Arab,Accessories,Noise-Canceling Headset,3,141.53,0.1,86.44,Corporate,Enterprise,424.59,382.13,259.32,122.81,32.14,2025-01,2025Q1
+ORD-00247,2025-10-04,Cairo,New Cairo,Monitor,ViewPro 24,2,183.16,0.0,122.33,Corporate,Consumer,366.32,366.32,244.66,121.66,33.21,2025-10,2025Q4
+ORD-00248,2025-06-01,Delta,Tanta,Mobile,SmartOne Pro,2,764.42,0.0,540.82,Retail Store,Consumer,1528.84,1528.84,1081.64,447.2,29.25,2025-06,2025Q2
+ORD-00249,2025-10-15,Alexandria,Alexandria,Accessories,USB-C Dock,4,118.72,0.05,72.73,Online,Consumer,474.88,451.14,290.92,160.22,35.51,2025-10,2025Q4
+ORD-00250,2025-01-16,Cairo,Cairo,Laptop,CreatorBook 16,1,1369.5,0.0,970.65,Corporate,Small Business,1369.5,1369.5,970.65,398.85,29.12,2025-01,2025Q1
+ORD-00251,2025-03-07,Delta,Tanta,Accessories,Ergonomic Mouse,3,39.21,0.05,19.26,Online,Enterprise,117.63,111.75,57.78,53.97,48.29,2025-03,2025Q1
+ORD-00252,2025-06-30,Upper Egypt,Sohag,Accessories,Wireless Keyboard,3,52.62,0.0,29.02,Retail Store,Consumer,157.86,157.86,87.06,70.8,44.85,2025-06,2025Q2
+ORD-00253,2025-03-10,Alexandria,Alexandria,Monitor,ViewPro 24,3,186.37,0.0,123.23,Online,Consumer,559.11,559.11,369.69,189.42,33.88,2025-03,2025Q1
+ORD-00254,2025-05-01,Cairo,Giza,Monitor,CreatorView 32,1,531.91,0.0,380.05,Corporate,Consumer,531.91,531.91,380.05,151.86,28.55,2025-05,2025Q2
+ORD-00255,2025-08-30,Alexandria,Borg El Arab,Mobile,Connect X,1,585.07,0.0,410.92,Online,Consumer,585.07,585.07,410.92,174.15,29.77,2025-08,2025Q3
+ORD-00256,2025-02-22,Cairo,Cairo,Laptop,NovaBook 14,1,876.83,0.1,614.29,Corporate,Small Business,876.83,789.15,614.29,174.86,22.16,2025-02,2025Q1
+ORD-00257,2025-09-05,Alexandria,Borg El Arab,Laptop,CreatorBook 16,1,1319.19,0.0,950.94,Retail Store,Consumer,1319.19,1319.19,950.94,368.25,27.91,2025-09,2025Q3
+ORD-00258,2025-02-07,Cairo,Giza,Mobile,SmartOne Lite,1,415.23,0.1,283.52,Corporate,Consumer,415.23,373.71,283.52,90.19,24.13,2025-02,2025Q1
+ORD-00259,2025-03-05,Delta,Tanta,Monitor,CreatorView 32,2,514.53,0.05,374.4,Online,Consumer,1029.06,977.61,748.8,228.81,23.4,2025-03,2025Q1
+ORD-00260,2025-08-03,Cairo,Giza,Mobile,SmartOne Pro,2,766.67,0.15,536.68,Retail Store,Consumer,1533.34,1303.34,1073.36,229.98,17.65,2025-08,2025Q3
+ORD-00261,2025-10-17,Cairo,Cairo,Accessories,USB-C Dock,1,116.38,0.05,70.89,Online,Consumer,116.38,110.56,70.89,39.67,35.88,2025-10,2025Q4
+ORD-00262,2025-03-04,Upper Egypt,Sohag,Mobile,Connect X,1,574.26,0.1,407.21,Online,Consumer,574.26,516.83,407.21,109.62,21.21,2025-03,2025Q1
+ORD-00263,2025-04-20,Cairo,Cairo,Laptop,WorkMate 15,3,691.72,0.0,508.64,Online,Small Business,2075.16,2075.16,1525.92,549.24,26.47,2025-04,2025Q2
+ORD-00264,2025-12-04,Cairo,New Cairo,Mobile,Connect X,3,681.11,0.05,422.44,Corporate,Small Business,2043.33,1941.16,1267.32,673.84,34.71,2025-12,2025Q4
+ORD-00265,2025-12-28,Cairo,Cairo,Accessories,Ergonomic Mouse,4,43.67,0.0,19.51,Retail Store,Small Business,174.68,174.68,78.04,96.64,55.32,2025-12,2025Q4
+ORD-00266,2025-08-01,Alexandria,Borg El Arab,Accessories,USB-C Dock,4,115.02,0.15,73.51,Online,Small Business,460.08,391.07,294.04,97.03,24.81,2025-08,2025Q3
+ORD-00267,2025-06-13,Alexandria,Borg El Arab,Mobile,SmartOne Pro,3,807.72,0.05,558.81,Online,Enterprise,2423.16,2302.0,1676.43,625.57,27.18,2025-06,2025Q2
+ORD-00268,2025-05-07,Upper Egypt,Minya,Laptop,CreatorBook 16,3,1303.96,0.0,975.59,Online,Consumer,3911.88,3911.88,2926.77,985.11,25.18,2025-05,2025Q2
+ORD-00269,2025-08-12,Cairo,Cairo,Accessories,Wireless Keyboard,5,52.3,0.05,28.55,Corporate,Consumer,261.5,248.42,142.75,105.67,42.54,2025-08,2025Q3
+ORD-00270,2025-08-04,Delta,Mansoura,Laptop,NovaBook 14,3,836.42,0.0,615.15,Retail Store,Consumer,2509.26,2509.26,1845.45,663.81,26.45,2025-08,2025Q3
+ORD-00271,2025-04-18,Cairo,Cairo,Monitor,ViewPro 27 QHD,2,311.32,0.1,222.64,Corporate,Consumer,622.64,560.38,445.28,115.1,20.54,2025-04,2025Q2
+ORD-00272,2025-01-09,Delta,Tanta,Laptop,NovaBook 14,3,829.76,0.1,620.27,Retail Store,Consumer,2489.28,2240.35,1860.81,379.54,16.94,2025-01,2025Q1
+ORD-00273,2025-02-25,Upper Egypt,Sohag,Laptop,NovaBook 14,2,862.02,0.0,641.87,Retail Store,Small Business,1724.04,1724.04,1283.74,440.3,25.54,2025-02,2025Q1
+ORD-00274,2025-12-16,Alexandria,Alexandria,Mobile,Connect X,2,663.7,0.05,421.32,Corporate,Consumer,1327.4,1261.03,842.64,418.39,33.18,2025-12,2025Q4
+ORD-00275,2025-06-02,Delta,Zagazig,Mobile,SmartOne Lite,3,424.48,0.0,282.52,Corporate,Consumer,1273.44,1273.44,847.56,425.88,33.44,2025-06,2025Q2
+ORD-00276,2025-06-26,Cairo,Cairo,Mobile,Connect X,1,586.71,0.0,421.19,Online,Consumer,586.71,586.71,421.19,165.52,28.21,2025-06,2025Q2
+ORD-00277,2025-06-20,Upper Egypt,Sohag,Mobile,SmartOne Pro,2,792.26,0.05,551.78,Online,Consumer,1584.52,1505.29,1103.56,401.73,26.69,2025-06,2025Q2
+ORD-00278,2025-10-13,Delta,Tanta,Monitor,ViewPro 27 QHD,2,310.11,0.0,223.02,Online,Small Business,620.22,620.22,446.04,174.18,28.08,2025-10,2025Q4
+ORD-00279,2025-01-24,Cairo,New Cairo,Mobile,Connect X,2,610.94,0.05,423.26,Retail Store,Consumer,1221.88,1160.79,846.52,314.27,27.07,2025-01,2025Q1
+ORD-00280,2025-01-31,Cairo,Giza,Mobile,SmartOne Pro,3,780.13,0.0,544.73,Retail Store,Small Business,2340.39,2340.39,1634.19,706.2,30.17,2025-01,2025Q1
+ORD-00281,2025-04-11,Cairo,Giza,Mobile,SmartOne Lite,3,415.72,0.0,286.97,Retail Store,Consumer,1247.16,1247.16,860.91,386.25,30.97,2025-04,2025Q2
+ORD-00282,2025-06-27,Cairo,Giza,Laptop,WorkMate 15,2,704.99,0.0,528.79,Retail Store,Consumer,1409.98,1409.98,1057.58,352.4,24.99,2025-06,2025Q2
+ORD-00283,2025-09-02,Cairo,New Cairo,Accessories,USB-C Dock,3,113.89,0.05,72.14,Retail Store,Consumer,341.67,324.59,216.42,108.17,33.32,2025-09,2025Q3
+ORD-00284,2025-06-29,Delta,Mansoura,Laptop,NovaBook 14,2,865.11,0.05,632.59,Corporate,Consumer,1730.22,1643.71,1265.18,378.53,23.03,2025-06,2025Q2
+ORD-00285,2025-06-11,Delta,Mansoura,Accessories,Ergonomic Mouse,4,38.74,0.0,18.84,Online,Consumer,154.96,154.96,75.36,79.6,51.37,2025-06,2025Q2
+ORD-00286,2025-12-09,Cairo,Cairo,Laptop,CreatorBook 16,1,1474.51,0.1,969.79,Online,Small Business,1474.51,1327.06,969.79,357.27,26.92,2025-12,2025Q4
+ORD-00287,2025-02-28,Delta,Tanta,Monitor,ViewPro 27 QHD,1,315.91,0.05,219.84,Corporate,Consumer,315.91,300.11,219.84,80.27,26.75,2025-02,2025Q1
+ORD-00288,2025-07-28,Upper Egypt,Sohag,Mobile,SmartOne Lite,1,413.88,0.0,282.97,Online,Consumer,413.88,413.88,282.97,130.91,31.63,2025-07,2025Q3
+ORD-00289,2025-07-17,Alexandria,Alexandria,Monitor,ViewPro 24,1,181.0,0.0,127.71,Corporate,Consumer,181.0,181.0,127.71,53.29,29.44,2025-07,2025Q3
+ORD-00290,2025-06-22,Delta,Zagazig,Mobile,SmartOne Pro,2,779.45,0.05,553.65,Retail Store,Enterprise,1558.9,1480.96,1107.3,373.66,25.23,2025-06,2025Q2
+ORD-00291,2025-10-22,Cairo,Giza,Laptop,NovaBook 14,1,883.22,0.1,639.04,Online,Small Business,883.22,794.9,639.04,155.86,19.61,2025-10,2025Q4
+ORD-00292,2025-04-08,Upper Egypt,Minya,Accessories,Ergonomic Mouse,5,38.23,0.05,19.12,Online,Consumer,191.15,181.59,95.6,85.99,47.35,2025-04,2025Q2
+ORD-00293,2025-12-15,Cairo,New Cairo,Accessories,Noise-Canceling Headset,1,159.71,0.1,86.87,Retail Store,Consumer,159.71,143.74,86.87,56.87,39.56,2025-12,2025Q4
+ORD-00294,2025-05-02,Cairo,New Cairo,Accessories,USB-C Dock,3,116.93,0.05,73.49,Retail Store,Consumer,350.79,333.25,220.47,112.78,33.84,2025-05,2025Q2
+ORD-00295,2025-07-18,Upper Egypt,Assiut,Mobile,SmartOne Pro,2,803.85,0.0,544.63,Retail Store,Consumer,1607.7,1607.7,1089.26,518.44,32.25,2025-07,2025Q3
+ORD-00296,2025-07-10,Delta,Tanta,Accessories,Ergonomic Mouse,3,38.62,0.0,19.03,Online,Enterprise,115.86,115.86,57.09,58.77,50.73,2025-07,2025Q3
+ORD-00297,2025-11-07,Alexandria,Alexandria,Monitor,ViewPro 24,1,209.11,0.1,124.85,Corporate,Consumer,209.11,188.2,124.85,63.35,33.66,2025-11,2025Q4
+ORD-00298,2025-06-10,Delta,Tanta,Accessories,Wireless Keyboard,4,52.57,0.0,29.16,Online,Consumer,210.28,210.28,116.64,93.64,44.53,2025-06,2025Q2
+ORD-00299,2025-04-14,Delta,Zagazig,Mobile,SmartOne Pro,2,783.77,0.0,536.64,Online,Consumer,1567.54,1567.54,1073.28,494.26,31.53,2025-04,2025Q2
+ORD-00300,2025-01-08,Cairo,Cairo,Accessories,Wireless Keyboard,2,51.09,0.0,29.7,Corporate,Consumer,102.18,102.18,59.4,42.78,41.87,2025-01,2025Q1
+ORD-00301,2025-05-13,Cairo,Cairo,Accessories,Wireless Keyboard,3,53.93,0.05,29.79,Retail Store,Enterprise,161.79,153.7,89.37,64.33,41.85,2025-05,2025Q2
+ORD-00302,2025-10-29,Cairo,Giza,Monitor,ViewPro 24,1,191.71,0.0,122.18,Online,Small Business,191.71,191.71,122.18,69.53,36.27,2025-10,2025Q4
+ORD-00303,2025-01-04,Cairo,Giza,Mobile,Connect X,1,586.54,0.0,408.57,Online,Consumer,586.54,586.54,408.57,177.97,30.34,2025-01,2025Q1
+ORD-00304,2025-11-24,Upper Egypt,Sohag,Mobile,SmartOne Pro,3,905.72,0.0,538.05,Online,Consumer,2717.16,2717.16,1614.15,1103.01,40.59,2025-11,2025Q4
+ORD-00305,2025-07-18,Cairo,Giza,Accessories,Noise-Canceling Headset,1,142.06,0.05,88.41,Retail Store,Consumer,142.06,134.96,88.41,46.55,34.49,2025-07,2025Q3
+ORD-00306,2025-02-21,Delta,Tanta,Mobile,SmartOne Pro,1,769.39,0.0,544.24,Retail Store,Enterprise,769.39,769.39,544.24,225.15,29.26,2025-02,2025Q1
+ORD-00307,2025-04-21,Alexandria,Borg El Arab,Accessories,Ergonomic Mouse,5,39.47,0.0,19.02,Online,Consumer,197.35,197.35,95.1,102.25,51.81,2025-04,2025Q2
+ORD-00308,2025-07-22,Alexandria,Alexandria,Mobile,SmartOne Pro,3,761.8,0.0,546.45,Retail Store,Consumer,2285.4,2285.4,1639.35,646.05,28.27,2025-07,2025Q3
+ORD-00309,2025-04-26,Delta,Tanta,Laptop,WorkMate 15,3,700.68,0.0,518.56,Online,Consumer,2102.04,2102.04,1555.68,546.36,25.99,2025-04,2025Q2
+ORD-00310,2025-02-09,Delta,Tanta,Accessories,Ergonomic Mouse,5,38.49,0.1,18.87,Online,Consumer,192.45,173.2,94.35,78.86,45.53,2025-02,2025Q1
+ORD-00311,2025-09-01,Upper Egypt,Assiut,Laptop,NovaBook 14,2,839.41,0.0,626.65,Online,Consumer,1678.82,1678.82,1253.3,425.52,25.35,2025-09,2025Q3
+ORD-00312,2025-09-03,Alexandria,Borg El Arab,Laptop,WorkMate 15,3,704.35,0.1,527.94,Retail Store,Small Business,2113.05,1901.74,1583.82,317.92,16.72,2025-09,2025Q3
+ORD-00313,2025-02-13,Alexandria,Borg El Arab,Accessories,USB-C Dock,3,118.84,0.0,72.4,Retail Store,Consumer,356.52,356.52,217.2,139.32,39.08,2025-02,2025Q1
+ORD-00314,2025-04-13,Upper Egypt,Minya,Accessories,USB-C Dock,5,114.71,0.0,71.69,Retail Store,Consumer,573.55,573.55,358.45,215.1,37.5,2025-04,2025Q2
+ORD-00315,2025-03-31,Alexandria,Borg El Arab,Monitor,ViewPro 27 QHD,3,308.53,0.0,229.88,Online,Consumer,925.59,925.59,689.64,235.95,25.49,2025-03,2025Q1
+ORD-00316,2025-08-29,Cairo,New Cairo,Laptop,NovaBook 14,2,846.32,0.05,634.92,Retail Store,Consumer,1692.64,1608.01,1269.84,338.17,21.03,2025-08,2025Q3
+ORD-00317,2025-09-24,Delta,Tanta,Laptop,CreatorBook 16,3,1358.91,0.15,954.87,Retail Store,Enterprise,4076.73,3465.22,2864.61,600.61,17.33,2025-09,2025Q3
+ORD-00318,2025-09-23,Cairo,Giza,Monitor,ViewPro 27 QHD,2,321.07,0.0,221.33,Retail Store,Consumer,642.14,642.14,442.66,199.48,31.06,2025-09,2025Q3
+ORD-00319,2025-12-09,Delta,Mansoura,Laptop,WorkMate 15,3,822.0,0.0,509.36,Online,Consumer,2466.0,2466.0,1528.08,937.92,38.03,2025-12,2025Q4
+ORD-00320,2025-10-08,Upper Egypt,Sohag,Laptop,CreatorBook 16,2,1283.09,0.05,960.32,Online,Consumer,2566.18,2437.87,1920.64,517.23,21.22,2025-10,2025Q4
+ORD-00321,2025-04-28,Delta,Mansoura,Mobile,SmartOne Pro,2,771.57,0.0,553.97,Corporate,Consumer,1543.14,1543.14,1107.94,435.2,28.2,2025-04,2025Q2
+ORD-00322,2025-02-09,Delta,Tanta,Mobile,SmartOne Lite,3,415.41,0.0,280.34,Retail Store,Small Business,1246.23,1246.23,841.02,405.21,32.51,2025-02,2025Q1
+ORD-00323,2025-08-13,Cairo,Cairo,Monitor,ViewPro 27 QHD,1,310.38,0.05,223.14,Retail Store,Enterprise,310.38,294.86,223.14,71.72,24.32,2025-08,2025Q3
+ORD-00324,2025-12-01,Upper Egypt,Sohag,Accessories,USB-C Dock,3,127.6,0.0,72.93,Corporate,Consumer,382.8,382.8,218.79,164.01,42.84,2025-12,2025Q4
+ORD-00325,2025-12-22,Cairo,Cairo,Accessories,Noise-Canceling Headset,4,165.8,0.0,90.27,Retail Store,Small Business,663.2,663.2,361.08,302.12,45.55,2025-12,2025Q4
+ORD-00326,2025-03-26,Cairo,Cairo,Laptop,NovaBook 14,1,854.27,0.05,636.5,Corporate,Consumer,854.27,811.56,636.5,175.06,21.57,2025-03,2025Q1
+ORD-00327,2025-03-28,Cairo,Giza,Mobile,SmartOne Lite,2,424.99,0.1,290.67,Corporate,Consumer,849.98,764.98,581.34,183.64,24.01,2025-03,2025Q1
+ORD-00328,2025-01-14,Cairo,New Cairo,Mobile,SmartOne Lite,2,412.59,0.1,286.13,Retail Store,Small Business,825.18,742.66,572.26,170.4,22.94,2025-01,2025Q1
+ORD-00329,2025-02-21,Delta,Tanta,Laptop,NovaBook 14,2,854.86,0.0,628.42,Corporate,Small Business,1709.72,1709.72,1256.84,452.88,26.49,2025-02,2025Q1
+ORD-00330,2025-07-22,Delta,Mansoura,Laptop,CreatorBook 16,1,1353.92,0.0,959.54,Online,Consumer,1353.92,1353.92,959.54,394.38,29.13,2025-07,2025Q3
+ORD-00331,2025-07-19,Cairo,Cairo,Mobile,SmartOne Lite,1,398.6,0.0,289.14,Online,Consumer,398.6,398.6,289.14,109.46,27.46,2025-07,2025Q3
+ORD-00332,2025-05-16,Cairo,Giza,Laptop,CreatorBook 16,3,1320.87,0.0,963.55,Corporate,Consumer,3962.61,3962.61,2890.65,1071.96,27.05,2025-05,2025Q2
+ORD-00333,2025-04-24,Cairo,Giza,Mobile,Connect X,2,580.86,0.0,417.57,Online,Small Business,1161.72,1161.72,835.14,326.58,28.11,2025-04,2025Q2
+ORD-00334,2025-10-30,Cairo,Giza,Accessories,Noise-Canceling Headset,5,143.18,0.0,86.33,Retail Store,Enterprise,715.9,715.9,431.65,284.25,39.71,2025-10,2025Q4
+ORD-00335,2025-06-17,Cairo,Cairo,Laptop,NovaBook 14,3,883.74,0.1,621.72,Retail Store,Enterprise,2651.22,2386.1,1865.16,520.94,21.83,2025-06,2025Q2
+ORD-00336,2025-10-23,Alexandria,Borg El Arab,Mobile,SmartOne Lite,1,416.47,0.0,292.11,Retail Store,Consumer,416.47,416.47,292.11,124.36,29.86,2025-10,2025Q4
+ORD-00337,2025-12-18,Cairo,Cairo,Accessories,Ergonomic Mouse,5,43.69,0.0,18.72,Retail Store,Consumer,218.45,218.45,93.6,124.85,57.15,2025-12,2025Q4
+ORD-00338,2025-04-26,Cairo,New Cairo,Accessories,Wireless Keyboard,4,53.07,0.0,29.22,Retail Store,Consumer,212.28,212.28,116.88,95.4,44.94,2025-04,2025Q2
+ORD-00339,2025-03-15,Cairo,Cairo,Accessories,Wireless Keyboard,5,51.08,0.0,28.57,Online,Consumer,255.4,255.4,142.85,112.55,44.07,2025-03,2025Q1
+ORD-00340,2025-12-14,Delta,Tanta,Mobile,Connect X,1,675.49,0.0,422.28,Retail Store,Consumer,675.49,675.49,422.28,253.21,37.49,2025-12,2025Q4
+ORD-00341,2025-08-20,Cairo,Giza,Accessories,Noise-Canceling Headset,4,144.27,0.0,88.22,Online,Small Business,577.08,577.08,352.88,224.2,38.85,2025-08,2025Q3
+ORD-00342,2025-04-17,Cairo,New Cairo,Laptop,CreatorBook 16,1,1286.98,0.0,987.64,Online,Consumer,1286.98,1286.98,987.64,299.34,23.26,2025-04,2025Q2
+ORD-00343,2025-08-15,Alexandria,Borg El Arab,Mobile,SmartOne Lite,1,403.97,0.05,291.74,Retail Store,Consumer,403.97,383.77,291.74,92.03,23.98,2025-08,2025Q3
+ORD-00344,2025-07-07,Cairo,New Cairo,Laptop,NovaBook 14,2,882.58,0.05,613.52,Online,Consumer,1765.16,1676.9,1227.04,449.86,26.83,2025-07,2025Q3
+ORD-00345,2025-11-27,Delta,Mansoura,Mobile,SmartOne Lite,2,473.33,0.05,286.95,Retail Store,Consumer,946.66,899.33,573.9,325.43,36.19,2025-11,2025Q4
+ORD-00346,2025-04-04,Delta,Tanta,Mobile,Connect X,2,593.31,0.1,421.6,Online,Consumer,1186.62,1067.96,843.2,224.76,21.05,2025-04,2025Q2
+ORD-00347,2025-12-28,Cairo,Giza,Laptop,CreatorBook 16,3,1469.26,0.0,947.99,Corporate,Consumer,4407.78,4407.78,2843.97,1563.81,35.48,2025-12,2025Q4
+ORD-00348,2025-12-08,Delta,Zagazig,Accessories,USB-C Dock,3,125.21,0.0,72.23,Corporate,Enterprise,375.63,375.63,216.69,158.94,42.31,2025-12,2025Q4
+ORD-00349,2025-03-07,Alexandria,Alexandria,Mobile,SmartOne Lite,1,421.15,0.0,289.07,Retail Store,Small Business,421.15,421.15,289.07,132.08,31.36,2025-03,2025Q1
+ORD-00350,2025-03-02,Alexandria,Alexandria,Laptop,CreatorBook 16,2,1350.34,0.1,988.72,Corporate,Consumer,2700.68,2430.61,1977.44,453.17,18.64,2025-03,2025Q1
+ORD-00351,2025-07-14,Cairo,Giza,Laptop,WorkMate 15,1,708.82,0.0,526.76,Online,Consumer,708.82,708.82,526.76,182.06,25.68,2025-07,2025Q3
+ORD-00352,2025-01-17,Cairo,New Cairo,Mobile,Connect X,1,597.72,0.0,409.39,Corporate,Consumer,597.72,597.72,409.39,188.33,31.51,2025-01,2025Q1
+ORD-00353,2025-04-20,Cairo,Cairo,Mobile,SmartOne Lite,3,415.06,0.0,280.5,Retail Store,Small Business,1245.18,1245.18,841.5,403.68,32.42,2025-04,2025Q2
+ORD-00354,2025-06-08,Delta,Mansoura,Mobile,SmartOne Pro,1,778.6,0.0,546.22,Retail Store,Consumer,778.6,778.6,546.22,232.38,29.85,2025-06,2025Q2
+ORD-00355,2025-12-20,Alexandria,Alexandria,Laptop,NovaBook 14,3,989.9,0.0,623.45,Retail Store,Consumer,2969.7,2969.7,1870.35,1099.35,37.02,2025-12,2025Q4
+ORD-00356,2025-12-29,Cairo,Giza,Accessories,Wireless Keyboard,1,60.32,0.1,29.33,Online,Small Business,60.32,54.29,29.33,24.96,45.97,2025-12,2025Q4
+ORD-00357,2025-02-25,Cairo,Cairo,Monitor,ViewPro 24,1,187.47,0.1,127.32,Online,Small Business,187.47,168.72,127.32,41.4,24.54,2025-02,2025Q1
+ORD-00358,2025-11-22,Upper Egypt,Assiut,Mobile,Connect X,3,666.46,0.0,419.53,Retail Store,Consumer,1999.38,1999.38,1258.59,740.79,37.05,2025-11,2025Q4
+ORD-00359,2025-02-03,Cairo,Giza,Accessories,Wireless Keyboard,4,53.5,0.0,29.75,Online,Consumer,214.0,214.0,119.0,95.0,44.39,2025-02,2025Q1
+ORD-00360,2025-10-01,Delta,Tanta,Monitor,CreatorView 32,1,534.99,0.0,374.72,Retail Store,Small Business,534.99,534.99,374.72,160.27,29.96,2025-10,2025Q4
+ORD-00361,2025-11-05,Alexandria,Borg El Arab,Monitor,CreatorView 32,1,570.01,0.0,384.21,Corporate,Small Business,570.01,570.01,384.21,185.8,32.6,2025-11,2025Q4
+ORD-00362,2025-11-22,Cairo,New Cairo,Accessories,USB-C Dock,3,132.84,0.0,72.43,Online,Small Business,398.52,398.52,217.29,181.23,45.48,2025-11,2025Q4
+ORD-00363,2025-03-23,Cairo,Giza,Monitor,ViewPro 27 QHD,1,325.23,0.15,227.27,Retail Store,Small Business,325.23,276.45,227.27,49.18,17.79,2025-03,2025Q1
+ORD-00364,2025-11-23,Cairo,Giza,Monitor,ViewPro 24,3,204.51,0.15,124.88,Retail Store,Consumer,613.53,521.5,374.64,146.86,28.16,2025-11,2025Q4
+ORD-00365,2025-02-12,Upper Egypt,Assiut,Accessories,Ergonomic Mouse,3,38.43,0.0,18.76,Online,Consumer,115.29,115.29,56.28,59.01,51.18,2025-02,2025Q1
+ORD-00366,2025-07-09,Cairo,Cairo,Mobile,SmartOne Pro,1,765.64,0.05,550.19,Online,Enterprise,765.64,727.36,550.19,177.17,24.36,2025-07,2025Q3
+ORD-00367,2025-06-21,Cairo,Cairo,Laptop,NovaBook 14,1,855.56,0.0,622.5,Corporate,Enterprise,855.56,855.56,622.5,233.06,27.24,2025-06,2025Q2
+ORD-00368,2025-04-26,Cairo,New Cairo,Laptop,CreatorBook 16,3,1308.42,0.05,948.2,Online,Small Business,3925.26,3729.0,2844.6,884.4,23.72,2025-04,2025Q2
+ORD-00369,2025-01-09,Cairo,Giza,Mobile,SmartOne Pro,2,792.28,0.0,543.89,Retail Store,Consumer,1584.56,1584.56,1087.78,496.78,31.35,2025-01,2025Q1
+ORD-00370,2025-10-09,Delta,Zagazig,Mobile,SmartOne Pro,3,799.1,0.0,555.85,Online,Consumer,2397.3,2397.3,1667.55,729.75,30.44,2025-10,2025Q4
+ORD-00371,2025-05-03,Cairo,New Cairo,Mobile,Connect X,2,610.26,0.1,414.49,Online,Consumer,1220.52,1098.47,828.98,269.49,24.53,2025-05,2025Q2
+ORD-00372,2025-08-30,Delta,Tanta,Accessories,Wireless Keyboard,4,53.14,0.05,28.64,Retail Store,Consumer,212.56,201.93,114.56,87.37,43.27,2025-08,2025Q3
+ORD-00373,2025-05-30,Delta,Mansoura,Mobile,SmartOne Pro,1,784.48,0.0,542.41,Online,Consumer,784.48,784.48,542.41,242.07,30.86,2025-05,2025Q2
+ORD-00374,2025-05-17,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,2,313.91,0.0,221.61,Online,Consumer,627.82,627.82,443.22,184.6,29.4,2025-05,2025Q2
+ORD-00375,2025-11-20,Cairo,Cairo,Laptop,WorkMate 15,3,817.62,0.05,514.28,Retail Store,Consumer,2452.86,2330.22,1542.84,787.38,33.79,2025-11,2025Q4
+ORD-00376,2025-02-04,Alexandria,Alexandria,Laptop,CreatorBook 16,2,1307.79,0.0,955.29,Corporate,Enterprise,2615.58,2615.58,1910.58,705.0,26.95,2025-02,2025Q1
+ORD-00377,2025-09-26,Delta,Tanta,Accessories,USB-C Dock,1,115.24,0.0,71.93,Online,Small Business,115.24,115.24,71.93,43.31,37.58,2025-09,2025Q3
+ORD-00378,2025-09-30,Cairo,Giza,Monitor,ViewPro 27 QHD,3,327.02,0.0,226.84,Online,Consumer,981.06,981.06,680.52,300.54,30.63,2025-09,2025Q3
+ORD-00379,2025-05-19,Alexandria,Borg El Arab,Monitor,CreatorView 32,2,506.04,0.0,389.09,Online,Enterprise,1012.08,1012.08,778.18,233.9,23.11,2025-05,2025Q2
+ORD-00380,2025-04-06,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,2,309.41,0.05,221.21,Corporate,Consumer,618.82,587.88,442.42,145.46,24.74,2025-04,2025Q2
+ORD-00381,2025-01-02,Cairo,New Cairo,Monitor,ViewPro 24,3,183.06,0.0,125.54,Retail Store,Consumer,549.18,549.18,376.62,172.56,31.42,2025-01,2025Q1
+ORD-00382,2025-12-08,Upper Egypt,Minya,Mobile,SmartOne Lite,2,453.07,0.0,291.11,Retail Store,Small Business,906.14,906.14,582.22,323.92,35.75,2025-12,2025Q4
+ORD-00383,2025-12-12,Delta,Tanta,Mobile,Connect X,1,680.96,0.05,412.51,Online,Consumer,680.96,646.91,412.51,234.4,36.23,2025-12,2025Q4
+ORD-00384,2025-03-29,Delta,Zagazig,Laptop,NovaBook 14,1,855.73,0.0,639.08,Online,Consumer,855.73,855.73,639.08,216.65,25.32,2025-03,2025Q1
+ORD-00385,2025-01-12,Upper Egypt,Sohag,Accessories,Noise-Canceling Headset,3,145.66,0.05,90.01,Retail Store,Consumer,436.98,415.13,270.03,145.1,34.95,2025-01,2025Q1
+ORD-00386,2025-02-14,Cairo,Giza,Monitor,ViewPro 24,2,185.41,0.0,122.33,Online,Small Business,370.82,370.82,244.66,126.16,34.02,2025-02,2025Q1
+ORD-00387,2025-01-25,Alexandria,Borg El Arab,Mobile,SmartOne Pro,1,788.76,0.1,548.15,Online,Consumer,788.76,709.88,548.15,161.73,22.78,2025-01,2025Q1
+ORD-00388,2025-10-31,Cairo,New Cairo,Mobile,SmartOne Pro,2,780.14,0.0,542.24,Online,Consumer,1560.28,1560.28,1084.48,475.8,30.49,2025-10,2025Q4
+ORD-00389,2025-11-22,Alexandria,Alexandria,Mobile,Connect X,3,680.32,0.05,421.92,Retail Store,Consumer,2040.96,1938.91,1265.76,673.15,34.72,2025-11,2025Q4
+ORD-00390,2025-02-25,Delta,Tanta,Laptop,WorkMate 15,2,716.07,0.05,524.54,Retail Store,Consumer,1432.14,1360.53,1049.08,311.45,22.89,2025-02,2025Q1
+ORD-00391,2025-09-30,Cairo,Cairo,Laptop,NovaBook 14,1,864.14,0.0,639.55,Online,Consumer,864.14,864.14,639.55,224.59,25.99,2025-09,2025Q3
+ORD-00392,2025-03-07,Delta,Mansoura,Laptop,CreatorBook 16,1,1371.84,0.0,964.49,Corporate,Consumer,1371.84,1371.84,964.49,407.35,29.69,2025-03,2025Q1
+ORD-00393,2025-05-15,Cairo,Cairo,Monitor,ViewPro 24,3,183.12,0.05,121.96,Retail Store,Consumer,549.36,521.89,365.88,156.01,29.89,2025-05,2025Q2
+ORD-00394,2025-08-07,Cairo,New Cairo,Mobile,SmartOne Pro,2,797.34,0.0,555.08,Retail Store,Enterprise,1594.68,1594.68,1110.16,484.52,30.38,2025-08,2025Q3
+ORD-00395,2025-09-20,Cairo,Giza,Monitor,CreatorView 32,1,514.38,0.0,388.88,Retail Store,Consumer,514.38,514.38,388.88,125.5,24.4,2025-09,2025Q3
+ORD-00396,2025-11-16,Cairo,Cairo,Accessories,USB-C Dock,3,129.93,0.1,72.63,Online,Consumer,389.79,350.81,217.89,132.92,37.89,2025-11,2025Q4
+ORD-00397,2025-01-17,Cairo,New Cairo,Laptop,CreatorBook 16,3,1298.02,0.0,980.23,Online,Small Business,3894.06,3894.06,2940.69,953.37,24.48,2025-01,2025Q1
+ORD-00398,2025-03-13,Cairo,New Cairo,Laptop,CreatorBook 16,3,1353.45,0.05,981.59,Retail Store,Consumer,4060.35,3857.33,2944.77,912.56,23.66,2025-03,2025Q1
+ORD-00399,2025-04-13,Alexandria,Borg El Arab,Accessories,Ergonomic Mouse,5,38.57,0.0,19.46,Retail Store,Consumer,192.85,192.85,97.3,95.55,49.55,2025-04,2025Q2
+ORD-00400,2025-04-24,Alexandria,Alexandria,Laptop,CreatorBook 16,3,1299.93,0.0,987.75,Online,Consumer,3899.79,3899.79,2963.25,936.54,24.02,2025-04,2025Q2
+ORD-00401,2025-12-31,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,2,365.01,0.05,230.57,Online,Small Business,730.02,693.52,461.14,232.38,33.51,2025-12,2025Q4
+ORD-00402,2025-10-11,Cairo,New Cairo,Laptop,WorkMate 15,1,699.52,0.1,507.44,Online,Small Business,699.52,629.57,507.44,122.13,19.4,2025-10,2025Q4
+ORD-00403,2025-04-27,Upper Egypt,Sohag,Accessories,USB-C Dock,3,114.15,0.0,71.59,Retail Store,Consumer,342.45,342.45,214.77,127.68,37.28,2025-04,2025Q2
+ORD-00404,2025-12-21,Delta,Mansoura,Accessories,USB-C Dock,4,126.88,0.1,73.94,Online,Small Business,507.52,456.77,295.76,161.01,35.25,2025-12,2025Q4
+ORD-00405,2025-07-02,Cairo,Giza,Laptop,NovaBook 14,3,844.19,0.0,618.6,Retail Store,Consumer,2532.57,2532.57,1855.8,676.77,26.72,2025-07,2025Q3
+ORD-00406,2025-07-02,Cairo,Cairo,Laptop,NovaBook 14,3,840.64,0.0,632.77,Retail Store,Consumer,2521.92,2521.92,1898.31,623.61,24.73,2025-07,2025Q3
+ORD-00407,2025-06-08,Alexandria,Alexandria,Monitor,CreatorView 32,1,511.7,0.0,373.4,Online,Enterprise,511.7,511.7,373.4,138.3,27.03,2025-06,2025Q2
+ORD-00408,2025-02-22,Cairo,Cairo,Laptop,NovaBook 14,3,879.14,0.0,619.22,Corporate,Small Business,2637.42,2637.42,1857.66,779.76,29.57,2025-02,2025Q1
+ORD-00409,2025-12-08,Delta,Mansoura,Mobile,SmartOne Lite,1,449.42,0.1,285.24,Online,Consumer,449.42,404.48,285.24,119.24,29.48,2025-12,2025Q4
+ORD-00410,2025-01-06,Upper Egypt,Minya,Mobile,Connect X,3,578.73,0.0,420.94,Online,Consumer,1736.19,1736.19,1262.82,473.37,27.26,2025-01,2025Q1
+ORD-00411,2025-03-05,Cairo,New Cairo,Laptop,NovaBook 14,2,872.75,0.1,623.14,Online,Consumer,1745.5,1570.95,1246.28,324.67,20.67,2025-03,2025Q1
+ORD-00412,2025-03-25,Cairo,Giza,Accessories,Ergonomic Mouse,1,36.95,0.0,18.89,Online,Consumer,36.95,36.95,18.89,18.06,48.88,2025-03,2025Q1
+ORD-00413,2025-04-12,Upper Egypt,Sohag,Accessories,USB-C Dock,1,118.59,0.0,73.96,Retail Store,Enterprise,118.59,118.59,73.96,44.63,37.63,2025-04,2025Q2
+ORD-00414,2025-02-18,Delta,Mansoura,Mobile,Connect X,1,586.67,0.1,412.62,Retail Store,Consumer,586.67,528.0,412.62,115.38,21.85,2025-02,2025Q1
+ORD-00415,2025-01-07,Cairo,Giza,Monitor,CreatorView 32,1,530.86,0.0,389.66,Online,Consumer,530.86,530.86,389.66,141.2,26.6,2025-01,2025Q1
+ORD-00416,2025-09-05,Upper Egypt,Minya,Laptop,WorkMate 15,2,714.79,0.0,524.67,Online,Consumer,1429.58,1429.58,1049.34,380.24,26.6,2025-09,2025Q3
+ORD-00417,2025-12-20,Upper Egypt,Sohag,Laptop,NovaBook 14,1,943.23,0.0,615.2,Online,Small Business,943.23,943.23,615.2,328.03,34.78,2025-12,2025Q4
+ORD-00418,2025-02-14,Delta,Zagazig,Accessories,Wireless Keyboard,3,51.34,0.05,29.31,Online,Consumer,154.02,146.32,87.93,58.39,39.91,2025-02,2025Q1
+ORD-00419,2025-04-19,Delta,Tanta,Monitor,ViewPro 27 QHD,2,316.72,0.0,221.18,Online,Consumer,633.44,633.44,442.36,191.08,30.17,2025-04,2025Q2
+ORD-00420,2025-07-04,Cairo,New Cairo,Laptop,CreatorBook 16,3,1286.88,0.0,956.96,Retail Store,Consumer,3860.64,3860.64,2870.88,989.76,25.64,2025-07,2025Q3
+ORD-00421,2025-12-05,Cairo,New Cairo,Laptop,NovaBook 14,1,984.49,0.0,623.23,Retail Store,Small Business,984.49,984.49,623.23,361.26,36.7,2025-12,2025Q4
+ORD-00422,2025-09-11,Delta,Mansoura,Mobile,Connect X,1,574.35,0.0,409.42,Online,Small Business,574.35,574.35,409.42,164.93,28.72,2025-09,2025Q3
+ORD-00423,2025-10-07,Cairo,Giza,Accessories,Ergonomic Mouse,2,37.05,0.0,18.65,Corporate,Consumer,74.1,74.1,37.3,36.8,49.66,2025-10,2025Q4
+ORD-00424,2025-08-01,Delta,Mansoura,Laptop,CreatorBook 16,1,1298.57,0.0,966.23,Corporate,Consumer,1298.57,1298.57,966.23,332.34,25.59,2025-08,2025Q3
+ORD-00425,2025-06-02,Alexandria,Alexandria,Mobile,SmartOne Lite,2,426.1,0.1,280.23,Retail Store,Enterprise,852.2,766.98,560.46,206.52,26.93,2025-06,2025Q2
+ORD-00426,2025-03-14,Cairo,Cairo,Accessories,USB-C Dock,4,115.63,0.05,72.14,Retail Store,Consumer,462.52,439.39,288.56,150.83,34.33,2025-03,2025Q1
+ORD-00427,2025-11-12,Delta,Tanta,Mobile,SmartOne Lite,3,466.13,0.0,284.96,Online,Consumer,1398.39,1398.39,854.88,543.51,38.87,2025-11,2025Q4
+ORD-00428,2025-10-21,Cairo,Cairo,Laptop,CreatorBook 16,3,1320.19,0.05,944.73,Online,Enterprise,3960.57,3762.54,2834.19,928.35,24.67,2025-10,2025Q4
+ORD-00429,2025-01-10,Upper Egypt,Assiut,Laptop,WorkMate 15,3,717.79,0.0,529.6,Retail Store,Consumer,2153.37,2153.37,1588.8,564.57,26.22,2025-01,2025Q1
+ORD-00430,2025-09-19,Cairo,Cairo,Mobile,SmartOne Pro,3,793.98,0.0,547.48,Corporate,Consumer,2381.94,2381.94,1642.44,739.5,31.05,2025-09,2025Q3
+ORD-00431,2025-01-31,Delta,Mansoura,Mobile,SmartOne Pro,1,766.84,0.1,547.16,Online,Consumer,766.84,690.16,547.16,143.0,20.72,2025-01,2025Q1
+ORD-00432,2025-09-27,Delta,Zagazig,Monitor,CreatorView 32,2,506.08,0.05,382.19,Online,Consumer,1012.16,961.55,764.38,197.17,20.51,2025-09,2025Q3
+ORD-00433,2025-10-29,Cairo,Unknown,Accessories,Ergonomic Mouse,3,38.4,0.05,19.11,Corporate,Consumer,115.2,109.44,57.33,52.11,47.62,2025-10,2025Q4
+ORD-00434,2025-02-17,Alexandria,Borg El Arab,Accessories,USB-C Dock,4,111.68,0.05,71.41,Retail Store,Small Business,446.72,424.38,285.64,138.74,32.69,2025-02,2025Q1
+ORD-00435,2025-06-08,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,1,320.21,0.0,227.41,Online,Consumer,320.21,320.21,227.41,92.8,28.98,2025-06,2025Q2
+ORD-00436,2025-02-15,Delta,Mansoura,Mobile,SmartOne Lite,1,420.28,0.0,292.25,Retail Store,Small Business,420.28,420.28,292.25,128.03,30.46,2025-02,2025Q1
+ORD-00437,2025-07-27,Alexandria,Borg El Arab,Mobile,SmartOne Pro,1,801.73,0.0,536.11,Online,Small Business,801.73,801.73,536.11,265.62,33.13,2025-07,2025Q3
+ORD-00438,2025-12-05,Upper Egypt,Sohag,Monitor,ViewPro 24,3,207.15,0.0,123.22,Online,Consumer,621.45,621.45,369.66,251.79,40.52,2025-12,2025Q4
+ORD-00439,2025-01-30,Delta,Mansoura,Laptop,NovaBook 14,2,832.63,0.0,636.73,Retail Store,Consumer,1665.26,1665.26,1273.46,391.8,23.53,2025-01,2025Q1
+ORD-00440,2025-05-26,Delta,Mansoura,Accessories,USB-C Dock,3,112.25,0.05,73.98,Online,Consumer,336.75,319.91,221.94,97.97,30.62,2025-05,2025Q2
+ORD-00441,2025-12-22,Cairo,New Cairo,Accessories,Noise-Canceling Headset,3,167.6,0.05,87.43,Online,Consumer,502.8,477.66,262.29,215.37,45.09,2025-12,2025Q4
+ORD-00442,2025-04-20,Alexandria,Borg El Arab,Laptop,CreatorBook 16,3,1302.38,0.0,962.04,Online,Small Business,3907.14,3907.14,2886.12,1021.02,26.13,2025-04,2025Q2
+ORD-00443,2025-02-18,Delta,Mansoura,Mobile,SmartOne Pro,2,784.95,0.0,549.21,Online,Consumer,1569.9,1569.9,1098.42,471.48,30.03,2025-02,2025Q1
+ORD-00444,2025-06-28,Delta,Mansoura,Laptop,WorkMate 15,3,696.14,0.0,520.07,Corporate,Small Business,2088.42,2088.42,1560.21,528.21,25.29,2025-06,2025Q2
+ORD-00445,2025-07-05,Cairo,Cairo,Laptop,WorkMate 15,1,723.24,0.15,514.84,Online,Consumer,723.24,614.75,514.84,99.91,16.25,2025-07,2025Q3
+ORD-00446,2025-08-30,Upper Egypt,Sohag,Mobile,SmartOne Pro,1,771.27,0.0,552.96,Retail Store,Enterprise,771.27,771.27,552.96,218.31,28.31,2025-08,2025Q3
+ORD-00447,2025-04-25,Cairo,New Cairo,Mobile,Connect X,3,592.9,0.0,412.69,Retail Store,Consumer,1778.7,1778.7,1238.07,540.63,30.39,2025-04,2025Q2
+ORD-00448,2025-12-15,Alexandria,Borg El Arab,Accessories,Noise-Canceling Headset,2,167.53,0.0,86.78,Online,Consumer,335.06,335.06,173.56,161.5,48.2,2025-12,2025Q4
+ORD-00449,2025-07-10,Cairo,Giza,Monitor,ViewPro 24,2,191.64,0.1,123.53,Retail Store,Enterprise,383.28,344.95,247.06,97.89,28.38,2025-07,2025Q3
+ORD-00450,2025-04-15,Upper Egypt,Assiut,Accessories,USB-C Dock,4,114.83,0.0,71.96,Corporate,Consumer,459.32,459.32,287.84,171.48,37.33,2025-04,2025Q2
+ORD-00451,2025-12-17,Cairo,Giza,Laptop,NovaBook 14,2,937.84,0.05,627.66,Retail Store,Small Business,1875.68,1781.9,1255.32,526.58,29.55,2025-12,2025Q4
+ORD-00452,2025-12-04,Cairo,Giza,Laptop,NovaBook 14,2,975.92,0.0,620.34,Online,Small Business,1951.84,1951.84,1240.68,711.16,36.44,2025-12,2025Q4
+ORD-00453,2025-07-02,Alexandria,Alexandria,Laptop,WorkMate 15,2,698.04,0.0,526.8,Corporate,Consumer,1396.08,1396.08,1053.6,342.48,24.53,2025-07,2025Q3
+ORD-00454,2025-01-10,Upper Egypt,Minya,Laptop,CreatorBook 16,2,1354.38,0.05,969.37,Retail Store,Consumer,2708.76,2573.32,1938.74,634.58,24.66,2025-01,2025Q1
+ORD-00455,2025-08-06,Cairo,New Cairo,Monitor,ViewPro 24,3,182.53,0.0,127.6,Corporate,Consumer,547.59,547.59,382.8,164.79,30.09,2025-08,2025Q3
+ORD-00456,2025-07-22,Delta,Tanta,Mobile,SmartOne Pro,1,776.31,0.0,553.57,Retail Store,Consumer,776.31,776.31,553.57,222.74,28.69,2025-07,2025Q3
+ORD-00457,2025-02-24,Alexandria,Borg El Arab,Laptop,NovaBook 14,1,825.05,0.0,624.08,Retail Store,Small Business,825.05,825.05,624.08,200.97,24.36,2025-02,2025Q1
+ORD-00458,2025-08-20,Upper Egypt,Minya,Monitor,ViewPro 24,3,180.37,0.05,123.49,Online,Consumer,541.11,514.05,370.47,143.58,27.93,2025-08,2025Q3
+ORD-00459,2025-11-03,Cairo,New Cairo,Mobile,SmartOne Lite,1,471.52,0.1,292.32,Online,Consumer,471.52,424.37,292.32,132.05,31.12,2025-11,2025Q4
+ORD-00460,2025-02-08,Delta,Mansoura,Laptop,NovaBook 14,2,842.78,0.0,622.9,Corporate,Consumer,1685.56,1685.56,1245.8,439.76,26.09,2025-02,2025Q1
+ORD-00461,2025-09-22,Alexandria,Borg El Arab,Laptop,CreatorBook 16,1,1359.4,0.0,974.58,Online,Consumer,1359.4,1359.4,974.58,384.82,28.31,2025-09,2025Q3
+ORD-00462,2025-02-21,Alexandria,Borg El Arab,Accessories,USB-C Dock,3,115.34,0.0,71.83,Retail Store,Small Business,346.02,346.02,215.49,130.53,37.72,2025-02,2025Q1
+ORD-00463,2025-10-01,Alexandria,Borg El Arab,Accessories,USB-C Dock,1,111.9,0.05,72.14,Retail Store,Consumer,111.9,106.3,72.14,34.17,32.14,2025-10,2025Q4
+ORD-00464,2025-06-02,Delta,Tanta,Laptop,CreatorBook 16,1,1302.11,0.05,966.33,Online,Consumer,1302.11,1237.0,966.33,270.67,21.88,2025-06,2025Q2
+ORD-00465,2025-01-03,Cairo,Giza,Monitor,CreatorView 32,2,522.12,0.0,384.83,Corporate,Small Business,1044.24,1044.24,769.66,274.58,26.29,2025-01,2025Q1
+ORD-00466,2025-12-19,Upper Egypt,Sohag,Monitor,CreatorView 32,1,590.59,0.0,385.48,Online,Consumer,590.59,590.59,385.48,205.11,34.73,2025-12,2025Q4
+ORD-00467,2025-03-02,Alexandria,Borg El Arab,Monitor,ViewPro 27 QHD,1,305.71,0.0,229.06,Retail Store,Consumer,305.71,305.71,229.06,76.65,25.07,2025-03,2025Q1
+ORD-00468,2025-08-06,Alexandria,Borg El Arab,Laptop,CreatorBook 16,2,1363.17,0.05,949.92,Online,Consumer,2726.34,2590.02,1899.84,690.18,26.65,2025-08,2025Q3
+ORD-00469,2025-03-08,Cairo,Giza,Laptop,NovaBook 14,1,848.18,0.15,620.18,Corporate,Consumer,848.18,720.95,620.18,100.77,13.98,2025-03,2025Q1
+ORD-00470,2025-12-07,Cairo,Giza,Monitor,ViewPro 24,3,215.2,0.05,122.92,Online,Small Business,645.6,613.32,368.76,244.56,39.87,2025-12,2025Q4
+ORD-00471,2025-09-27,Alexandria,Borg El Arab,Mobile,SmartOne Lite,1,413.46,0.05,287.13,Online,Consumer,413.46,392.79,287.13,105.66,26.9,2025-09,2025Q3
+ORD-00472,2025-10-21,Cairo,New Cairo,Accessories,Wireless Keyboard,2,51.54,0.0,28.63,Retail Store,Consumer,103.08,103.08,57.26,45.82,44.45,2025-10,2025Q4
+ORD-00473,2025-06-07,Upper Egypt,Assiut,Accessories,Ergonomic Mouse,2,38.2,0.0,18.9,Retail Store,Enterprise,76.4,76.4,37.8,38.6,50.52,2025-06,2025Q2
+ORD-00474,2025-06-20,Cairo,Cairo,Laptop,CreatorBook 16,2,1301.04,0.0,964.22,Retail Store,Consumer,2602.08,2602.08,1928.44,673.64,25.89,2025-06,2025Q2
+ORD-00475,2025-08-20,Alexandria,Alexandria,Accessories,Ergonomic Mouse,3,37.97,0.1,18.67,Retail Store,Consumer,113.91,102.52,56.01,46.51,45.37,2025-08,2025Q3
+ORD-00476,2025-10-14,Upper Egypt,Sohag,Monitor,ViewPro 27 QHD,3,326.22,0.05,222.77,Online,Consumer,978.66,929.73,668.31,261.42,28.12,2025-10,2025Q4
+ORD-00477,2025-11-06,Cairo,Giza,Accessories,Wireless Keyboard,5,58.76,0.05,29.42,Corporate,Consumer,293.8,279.11,147.1,132.01,47.3,2025-11,2025Q4
+ORD-00478,2025-01-07,Cairo,Giza,Mobile,Connect X,3,584.47,0.1,407.17,Retail Store,Consumer,1753.41,1578.07,1221.51,356.56,22.59,2025-01,2025Q1
+ORD-00479,2025-08-31,Delta,Mansoura,Monitor,CreatorView 32,1,522.96,0.0,389.32,Retail Store,Enterprise,522.96,522.96,389.32,133.64,25.55,2025-08,2025Q3
+ORD-00480,2025-02-09,Delta,Unknown,Mobile,SmartOne Lite,1,401.05,0.05,292.5,Online,Consumer,401.05,381.0,292.5,88.5,23.23,2025-02,2025Q1
+ORD-00481,2025-04-16,Delta,Zagazig,Accessories,USB-C Dock,4,114.02,0.05,72.11,Online,Consumer,456.08,433.28,288.44,144.84,33.43,2025-04,2025Q2
+ORD-00482,2025-10-30,Delta,Zagazig,Accessories,USB-C Dock,3,113.27,0.0,73.86,Online,Consumer,339.81,339.81,221.58,118.23,34.79,2025-10,2025Q4
+ORD-00483,2025-04-02,Upper Egypt,Assiut,Accessories,Ergonomic Mouse,3,39.19,0.0,19.1,Online,Small Business,117.57,117.57,57.3,60.27,51.26,2025-04,2025Q2
+ORD-00484,2025-10-18,Delta,Tanta,Mobile,SmartOne Pro,2,790.53,0.0,549.44,Online,Small Business,1581.06,1581.06,1098.88,482.18,30.5,2025-10,2025Q4
+ORD-00485,2025-06-18,Cairo,Cairo,Laptop,NovaBook 14,3,853.26,0.0,640.45,Online,Consumer,2559.78,2559.78,1921.35,638.43,24.94,2025-06,2025Q2
+ORD-00486,2025-03-26,Cairo,Cairo,Laptop,CreatorBook 16,2,1300.48,0.0,943.81,Retail Store,Consumer,2600.96,2600.96,1887.62,713.34,27.43,2025-03,2025Q1
+ORD-00487,2025-05-02,Cairo,New Cairo,Mobile,SmartOne Pro,1,810.72,0.0,559.7,Retail Store,Small Business,810.72,810.72,559.7,251.02,30.96,2025-05,2025Q2
+ORD-00488,2025-07-13,Cairo,Cairo,Mobile,SmartOne Lite,1,408.21,0.0,289.93,Retail Store,Small Business,408.21,408.21,289.93,118.28,28.98,2025-07,2025Q3
+ORD-00489,2025-10-07,Cairo,Cairo,Accessories,USB-C Dock,5,111.93,0.0,71.19,Online,Consumer,559.65,559.65,355.95,203.7,36.4,2025-10,2025Q4
+ORD-00490,2025-08-10,Alexandria,Alexandria,Mobile,SmartOne Pro,2,785.45,0.0,552.03,Retail Store,Consumer,1570.9,1570.9,1104.06,466.84,29.72,2025-08,2025Q3
+ORD-00491,2025-12-07,Cairo,Cairo,Accessories,Wireless Keyboard,5,56.59,0.1,29.19,Retail Store,Small Business,282.95,254.66,145.95,108.71,42.69,2025-12,2025Q4
+ORD-00492,2025-11-13,Upper Egypt,Minya,Monitor,ViewPro 27 QHD,1,345.24,0.15,227.08,Retail Store,Consumer,345.24,293.45,227.08,66.37,22.62,2025-11,2025Q4
+ORD-00493,2025-10-02,Cairo,New Cairo,Laptop,WorkMate 15,3,715.68,0.0,511.33,Retail Store,Consumer,2147.04,2147.04,1533.99,613.05,28.55,2025-10,2025Q4
+ORD-00494,2025-08-09,Cairo,New Cairo,Accessories,Wireless Keyboard,2,50.51,0.0,28.5,Online,Consumer,101.02,101.02,57.0,44.02,43.58,2025-08,2025Q3
+ORD-00495,2025-04-16,Alexandria,Borg El Arab,Accessories,Noise-Canceling Headset,2,150.42,0.0,90.25,Online,Consumer,300.84,300.84,180.5,120.34,40.0,2025-04,2025Q2
+ORD-00496,2025-05-31,Upper Egypt,Assiut,Mobile,SmartOne Lite,2,406.1,0.05,281.05,Online,Consumer,812.2,771.59,562.1,209.49,27.15,2025-05,2025Q2
+ORD-00497,2025-02-13,Cairo,Giza,Laptop,CreatorBook 16,2,1321.27,0.0,947.41,Online,Small Business,2642.54,2642.54,1894.82,747.72,28.3,2025-02,2025Q1
+ORD-00498,2025-05-17,Cairo,Giza,Accessories,Wireless Keyboard,2,53.77,0.05,29.01,Retail Store,Consumer,107.54,102.16,58.02,44.14,43.21,2025-05,2025Q2
+ORD-00499,2025-12-05,Cairo,New Cairo,Monitor,ViewPro 27 QHD,1,353.02,0.0,225.85,Online,Consumer,353.02,353.02,225.85,127.17,36.02,2025-12,2025Q4
+ORD-00500,2025-06-05,Delta,Mansoura,Accessories,Ergonomic Mouse,1,38.09,0.0,19.24,Online,Small Business,38.09,38.09,19.24,18.85,49.49,2025-06,2025Q2
+ORD-00501,2025-02-11,Delta,Mansoura,Monitor,ViewPro 24,2,180.25,0.1,123.12,Corporate,Consumer,360.5,324.45,246.24,78.21,24.11,2025-02,2025Q1
+ORD-00502,2025-08-26,Cairo,Cairo,Monitor,CreatorView 32,2,519.79,0.05,381.51,Retail Store,Consumer,1039.58,987.6,763.02,224.58,22.74,2025-08,2025Q3
+ORD-00503,2025-12-18,Cairo,New Cairo,Mobile,Connect X,3,658.02,0.0,407.73,Corporate,Consumer,1974.06,1974.06,1223.19,750.87,38.04,2025-12,2025Q4
+ORD-00504,2025-11-13,Delta,Zagazig,Accessories,Noise-Canceling Headset,3,168.4,0.1,90.09,Online,Small Business,505.2,454.68,270.27,184.41,40.56,2025-11,2025Q4
+ORD-00505,2025-04-11,Upper Egypt,Minya,Mobile,Connect X,2,602.02,0.05,410.39,Online,Enterprise,1204.04,1143.84,820.78,323.06,28.24,2025-04,2025Q2
+ORD-00506,2025-06-15,Delta,Tanta,Monitor,CreatorView 32,3,518.17,0.1,377.18,Retail Store,Consumer,1554.51,1399.06,1131.54,267.52,19.12,2025-06,2025Q2
+ORD-00507,2025-07-13,Delta,Mansoura,Laptop,CreatorBook 16,2,1311.09,0.1,962.32,Retail Store,Consumer,2622.18,2359.96,1924.64,435.32,18.45,2025-07,2025Q3
+ORD-00508,2025-04-01,Cairo,Cairo,Mobile,Connect X,1,613.24,0.0,411.71,Retail Store,Consumer,613.24,613.24,411.71,201.53,32.86,2025-04,2025Q2
+ORD-00509,2025-04-09,Cairo,Cairo,Monitor,CreatorView 32,3,516.61,0.05,373.61,Online,Consumer,1549.83,1472.34,1120.83,351.51,23.87,2025-04,2025Q2
+ORD-00510,2025-03-28,Cairo,Cairo,Mobile,Connect X,3,583.94,0.0,415.53,Retail Store,Consumer,1751.82,1751.82,1246.59,505.23,28.84,2025-03,2025Q1
+ORD-00511,2025-12-30,Alexandria,Borg El Arab,Accessories,Wireless Keyboard,2,56.66,0.0,29.75,Online,Small Business,113.32,113.32,59.5,53.82,47.49,2025-12,2025Q4
+ORD-00512,2025-09-30,Upper Egypt,Assiut,Mobile,SmartOne Pro,2,803.76,0.0,535.22,Retail Store,Enterprise,1607.52,1607.52,1070.44,537.08,33.41,2025-09,2025Q3
+ORD-00513,2025-11-03,Upper Egypt,Assiut,Monitor,CreatorView 32,2,578.94,0.05,387.97,Online,Consumer,1157.88,1099.99,775.94,324.05,29.46,2025-11,2025Q4
+ORD-00514,2025-10-26,Upper Egypt,Sohag,Monitor,ViewPro 24,3,189.49,0.1,125.83,Online,Consumer,568.47,511.62,377.49,134.13,26.22,2025-10,2025Q4
+ORD-00515,2025-12-17,Upper Egypt,Sohag,Mobile,Connect X,1,681.16,0.0,418.79,Retail Store,Small Business,681.16,681.16,418.79,262.37,38.52,2025-12,2025Q4
+ORD-00516,2025-02-08,Upper Egypt,Minya,Accessories,Wireless Keyboard,3,52.86,0.05,28.72,Retail Store,Small Business,158.58,150.65,86.16,64.49,42.81,2025-02,2025Q1
+ORD-00517,2025-11-18,Cairo,Giza,Mobile,Connect X,3,683.92,0.0,419.06,Retail Store,Small Business,2051.76,2051.76,1257.18,794.58,38.73,2025-11,2025Q4
+ORD-00518,2025-01-25,Cairo,New Cairo,Accessories,Ergonomic Mouse,4,37.07,0.1,18.76,Corporate,Consumer,148.28,133.45,75.04,58.41,43.77,2025-01,2025Q1
+ORD-00519,2025-06-23,Cairo,Giza,Accessories,Ergonomic Mouse,4,39.06,0.0,18.92,Online,Consumer,156.24,156.24,75.68,80.56,51.56,2025-06,2025Q2
+ORD-00520,2025-08-05,Delta,Tanta,Accessories,Noise-Canceling Headset,2,147.25,0.05,89.24,Online,Small Business,294.5,279.77,178.48,101.29,36.21,2025-08,2025Q3
+ORD-00521,2025-05-11,Cairo,Cairo,Laptop,NovaBook 14,1,865.95,0.0,636.98,Retail Store,Consumer,865.95,865.95,636.98,228.97,26.44,2025-05,2025Q2
+ORD-00522,2025-02-23,Alexandria,Borg El Arab,Laptop,NovaBook 14,1,835.85,0.05,626.74,Online,Enterprise,835.85,794.06,626.74,167.32,21.07,2025-02,2025Q1
+ORD-00523,2025-03-12,Delta,Tanta,Accessories,Wireless Keyboard,3,52.02,0.0,29.02,Retail Store,Consumer,156.06,156.06,87.06,69.0,44.21,2025-03,2025Q1
+ORD-00524,2025-10-29,Delta,Unknown,Accessories,Ergonomic Mouse,4,38.67,0.0,18.81,Retail Store,Small Business,154.68,154.68,75.24,79.44,51.36,2025-10,2025Q4
+ORD-00525,2025-04-27,Cairo,New Cairo,Mobile,SmartOne Lite,2,402.39,0.1,282.53,Retail Store,Consumer,804.78,724.3,565.06,159.24,21.99,2025-04,2025Q2
+ORD-00526,2025-04-24,Cairo,Giza,Laptop,NovaBook 14,1,835.73,0.0,635.23,Corporate,Consumer,835.73,835.73,635.23,200.5,23.99,2025-04,2025Q2
+ORD-00527,2025-12-04,Cairo,Cairo,Mobile,SmartOne Pro,2,870.92,0.1,547.44,Corporate,Small Business,1741.84,1567.66,1094.88,472.78,30.16,2025-12,2025Q4
+ORD-00528,2025-02-22,Alexandria,Borg El Arab,Monitor,ViewPro 24,2,191.76,0.05,126.59,Online,Consumer,383.52,364.34,253.18,111.16,30.51,2025-02,2025Q1
+ORD-00529,2025-12-01,Delta,Mansoura,Laptop,WorkMate 15,2,795.11,0.0,523.54,Online,Enterprise,1590.22,1590.22,1047.08,543.14,34.16,2025-12,2025Q4
+ORD-00530,2025-12-03,Alexandria,Borg El Arab,Mobile,Connect X,2,648.17,0.1,409.38,Retail Store,Enterprise,1296.34,1166.71,818.76,347.95,29.82,2025-12,2025Q4
+ORD-00531,2025-08-07,Cairo,Giza,Monitor,ViewPro 27 QHD,1,323.78,0.0,223.46,Online,Consumer,323.78,323.78,223.46,100.32,30.98,2025-08,2025Q3
+ORD-00532,2025-03-02,Cairo,New Cairo,Laptop,CreatorBook 16,3,1349.47,0.0,949.18,Online,Small Business,4048.41,4048.41,2847.54,1200.87,29.66,2025-03,2025Q1
+ORD-00533,2025-02-26,Delta,Tanta,Accessories,Ergonomic Mouse,1,37.03,0.0,19.27,Retail Store,Consumer,37.03,37.03,19.27,17.76,47.96,2025-02,2025Q1
+ORD-00534,2025-04-14,Alexandria,Alexandria,Laptop,NovaBook 14,2,872.68,0.0,637.38,Online,Small Business,1745.36,1745.36,1274.76,470.6,26.96,2025-04,2025Q2
+ORD-00535,2025-07-30,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,1,326.38,0.05,221.85,Online,Consumer,326.38,310.06,221.85,88.21,28.45,2025-07,2025Q3
+ORD-00536,2025-02-26,Cairo,Cairo,Accessories,Wireless Keyboard,4,52.53,0.0,29.87,Online,Consumer,210.12,210.12,119.48,90.64,43.14,2025-02,2025Q1
+ORD-00537,2025-06-16,Upper Egypt,Sohag,Monitor,ViewPro 24,3,191.27,0.0,126.98,Retail Store,Consumer,573.81,573.81,380.94,192.87,33.61,2025-06,2025Q2
+ORD-00538,2025-02-12,Cairo,Cairo,Laptop,CreatorBook 16,3,1341.68,0.1,952.18,Online,Enterprise,4025.04,3622.54,2856.54,766.0,21.15,2025-02,2025Q1
+ORD-00539,2025-07-17,Upper Egypt,Sohag,Mobile,SmartOne Pro,1,757.88,0.0,541.05,Online,Small Business,757.88,757.88,541.05,216.83,28.61,2025-07,2025Q3
+ORD-00540,2025-01-08,Cairo,Cairo,Accessories,USB-C Dock,1,118.59,0.0,71.87,Retail Store,Consumer,118.59,118.59,71.87,46.72,39.4,2025-01,2025Q1
+ORD-00541,2025-09-16,Cairo,Giza,Laptop,CreatorBook 16,1,1330.04,0.0,963.27,Corporate,Consumer,1330.04,1330.04,963.27,366.77,27.58,2025-09,2025Q3
+ORD-00542,2025-01-21,Alexandria,Borg El Arab,Laptop,NovaBook 14,2,835.97,0.0,617.05,Online,Consumer,1671.94,1671.94,1234.1,437.84,26.19,2025-01,2025Q1
+ORD-00543,2025-03-13,Cairo,Cairo,Laptop,CreatorBook 16,3,1306.43,0.0,984.73,Corporate,Small Business,3919.29,3919.29,2954.19,965.1,24.62,2025-03,2025Q1
+ORD-00544,2025-03-05,Delta,Mansoura,Monitor,ViewPro 24,3,183.89,0.0,126.74,Corporate,Small Business,551.67,551.67,380.22,171.45,31.08,2025-03,2025Q1
+ORD-00545,2025-10-31,Delta,Tanta,Accessories,Ergonomic Mouse,2,38.47,0.0,18.97,Retail Store,Consumer,76.94,76.94,37.94,39.0,50.69,2025-10,2025Q4
+ORD-00546,2025-01-20,Cairo,Cairo,Accessories,Noise-Canceling Headset,3,146.74,0.15,88.66,Retail Store,Small Business,440.22,374.19,265.98,108.21,28.92,2025-01,2025Q1
+ORD-00547,2025-06-06,Alexandria,Borg El Arab,Accessories,Wireless Keyboard,3,51.49,0.0,28.51,Retail Store,Small Business,154.47,154.47,85.53,68.94,44.63,2025-06,2025Q2
+ORD-00548,2025-08-04,Alexandria,Borg El Arab,Mobile,SmartOne Pro,2,773.13,0.0,543.17,Corporate,Consumer,1546.26,1546.26,1086.34,459.92,29.74,2025-08,2025Q3
+ORD-00549,2025-07-08,Upper Egypt,Sohag,Mobile,SmartOne Lite,1,402.71,0.0,292.59,Online,Consumer,402.71,402.71,292.59,110.12,27.34,2025-07,2025Q3
+ORD-00550,2025-09-06,Cairo,Cairo,Mobile,SmartOne Lite,3,422.93,0.0,281.41,Corporate,Consumer,1268.79,1268.79,844.23,424.56,33.46,2025-09,2025Q3
+ORD-00551,2025-10-21,Delta,Zagazig,Accessories,Wireless Keyboard,1,54.02,0.1,29.4,Retail Store,Consumer,54.02,48.62,29.4,19.22,39.53,2025-10,2025Q4
+ORD-00552,2025-05-24,Cairo,New Cairo,Laptop,WorkMate 15,3,704.82,0.15,523.16,Retail Store,Consumer,2114.46,1797.29,1569.48,227.81,12.68,2025-05,2025Q2
+ORD-00553,2025-10-30,Cairo,Cairo,Monitor,ViewPro 27 QHD,2,319.08,0.1,224.3,Online,Consumer,638.16,574.34,448.6,125.74,21.89,2025-10,2025Q4
+ORD-00554,2025-04-27,Cairo,Giza,Accessories,USB-C Dock,1,116.65,0.05,73.85,Retail Store,Consumer,116.65,110.82,73.85,36.97,33.36,2025-04,2025Q2
+ORD-00555,2025-12-26,Upper Egypt,Sohag,Mobile,SmartOne Lite,1,474.27,0.05,292.27,Online,Consumer,474.27,450.56,292.27,158.29,35.13,2025-12,2025Q4
+ORD-00556,2025-07-04,Upper Egypt,Assiut,Accessories,USB-C Dock,4,115.0,0.05,73.11,Online,Small Business,460.0,437.0,292.44,144.56,33.08,2025-07,2025Q3
+ORD-00557,2025-09-26,Alexandria,Borg El Arab,Laptop,CreatorBook 16,2,1301.36,0.1,961.94,Online,Consumer,2602.72,2342.45,1923.88,418.57,17.87,2025-09,2025Q3
+ORD-00558,2025-11-16,Delta,Mansoura,Monitor,ViewPro 27 QHD,1,349.92,0.0,226.71,Retail Store,Small Business,349.92,349.92,226.71,123.21,35.21,2025-11,2025Q4
+ORD-00559,2025-10-17,Delta,Zagazig,Monitor,ViewPro 27 QHD,3,306.85,0.0,222.92,Online,Consumer,920.55,920.55,668.76,251.79,27.35,2025-10,2025Q4
+ORD-00560,2025-11-07,Delta,Tanta,Monitor,ViewPro 24,2,202.63,0.05,125.67,Online,Consumer,405.26,385.0,251.34,133.66,34.72,2025-11,2025Q4
+ORD-00561,2025-07-15,Delta,Tanta,Mobile,SmartOne Pro,2,800.11,0.0,555.46,Online,Consumer,1600.22,1600.22,1110.92,489.3,30.58,2025-07,2025Q3
+ORD-00562,2025-01-16,Delta,Tanta,Laptop,CreatorBook 16,1,1287.91,0.1,961.66,Retail Store,Consumer,1287.91,1159.12,961.66,197.46,17.04,2025-01,2025Q1
+ORD-00563,2025-06-29,Cairo,New Cairo,Laptop,NovaBook 14,2,841.68,0.1,618.84,Online,Small Business,1683.36,1515.02,1237.68,277.34,18.31,2025-06,2025Q2
+ORD-00564,2025-03-08,Cairo,Giza,Laptop,WorkMate 15,1,709.5,0.0,505.1,Online,Small Business,709.5,709.5,505.1,204.4,28.81,2025-03,2025Q1
+ORD-00565,2025-11-21,Upper Egypt,Minya,Laptop,WorkMate 15,1,820.99,0.1,521.62,Corporate,Consumer,820.99,738.89,521.62,217.27,29.41,2025-11,2025Q4
+ORD-00566,2025-03-28,Delta,Zagazig,Laptop,CreatorBook 16,2,1331.14,0.0,965.56,Retail Store,Small Business,2662.28,2662.28,1931.12,731.16,27.46,2025-03,2025Q1
+ORD-00567,2025-03-25,Upper Egypt,Minya,Monitor,ViewPro 27 QHD,2,324.68,0.0,223.7,Online,Consumer,649.36,649.36,447.4,201.96,31.1,2025-03,2025Q1
+ORD-00568,2025-04-02,Cairo,New Cairo,Laptop,CreatorBook 16,3,1286.85,0.1,950.17,Retail Store,Consumer,3860.55,3474.5,2850.51,623.99,17.96,2025-04,2025Q2
+ORD-00569,2025-08-23,Delta,Tanta,Laptop,NovaBook 14,2,875.41,0.0,635.92,Corporate,Small Business,1750.82,1750.82,1271.84,478.98,27.36,2025-08,2025Q3
+ORD-00570,2025-07-28,Cairo,Cairo,Accessories,Wireless Keyboard,1,50.64,0.0,29.61,Retail Store,Consumer,50.64,50.64,29.61,21.03,41.53,2025-07,2025Q3
+ORD-00571,2025-12-13,Cairo,Giza,Accessories,Wireless Keyboard,3,60.18,0.0,29.64,Retail Store,Consumer,180.54,180.54,88.92,91.62,50.75,2025-12,2025Q4
+ORD-00572,2025-06-01,Cairo,Cairo,Accessories,USB-C Dock,4,119.46,0.0,73.03,Retail Store,Enterprise,477.84,477.84,292.12,185.72,38.87,2025-06,2025Q2
+ORD-00573,2025-04-14,Cairo,Cairo,Accessories,Wireless Keyboard,1,50.81,0.0,29.53,Corporate,Small Business,50.81,50.81,29.53,21.28,41.88,2025-04,2025Q2
+ORD-00574,2025-01-18,Upper Egypt,Assiut,Monitor,ViewPro 24,3,190.87,0.1,125.55,Online,Consumer,572.61,515.35,376.65,138.7,26.91,2025-01,2025Q1
+ORD-00575,2025-01-03,Cairo,Giza,Accessories,USB-C Dock,5,117.03,0.0,73.78,Retail Store,Small Business,585.15,585.15,368.9,216.25,36.96,2025-01,2025Q1
+ORD-00576,2025-05-17,Delta,Zagazig,Mobile,Connect X,1,610.05,0.05,414.6,Retail Store,Enterprise,610.05,579.55,414.6,164.95,28.46,2025-05,2025Q2
+ORD-00577,2025-12-04,Delta,Mansoura,Accessories,Ergonomic Mouse,4,41.48,0.15,18.79,Corporate,Consumer,165.92,141.03,75.16,65.87,46.71,2025-12,2025Q4
+ORD-00578,2025-07-11,Delta,Zagazig,Mobile,Connect X,1,588.1,0.0,422.46,Retail Store,Consumer,588.1,588.1,422.46,165.64,28.17,2025-07,2025Q3
+ORD-00579,2025-11-23,Delta,Tanta,Mobile,Connect X,2,652.06,0.0,407.8,Retail Store,Enterprise,1304.12,1304.12,815.6,488.52,37.46,2025-11,2025Q4
+ORD-00580,2025-02-07,Cairo,Giza,Mobile,Connect X,3,591.71,0.05,415.28,Online,Small Business,1775.13,1686.37,1245.84,440.53,26.12,2025-02,2025Q1
+ORD-00581,2025-02-04,Upper Egypt,Assiut,Laptop,WorkMate 15,3,732.23,0.0,510.95,Online,Small Business,2196.69,2196.69,1532.85,663.84,30.22,2025-02,2025Q1
+ORD-00582,2025-11-01,Alexandria,Alexandria,Accessories,Wireless Keyboard,5,58.73,0.15,29.47,Corporate,Consumer,293.65,249.6,147.35,102.25,40.97,2025-11,2025Q4
+ORD-00583,2025-02-08,Alexandria,Borg El Arab,Laptop,NovaBook 14,3,838.99,0.1,635.55,Retail Store,Consumer,2516.97,2265.27,1906.65,358.62,15.83,2025-02,2025Q1
+ORD-00584,2025-01-19,Delta,Tanta,Laptop,WorkMate 15,2,729.45,0.0,522.49,Retail Store,Small Business,1458.9,1458.9,1044.98,413.92,28.37,2025-01,2025Q1
+ORD-00585,2025-05-28,Cairo,New Cairo,Laptop,CreatorBook 16,2,1364.23,0.0,972.46,Retail Store,Small Business,2728.46,2728.46,1944.92,783.54,28.72,2025-05,2025Q2
+ORD-00586,2025-12-04,Upper Egypt,Minya,Monitor,ViewPro 27 QHD,2,356.15,0.05,225.22,Corporate,Consumer,712.3,676.68,450.44,226.24,33.43,2025-12,2025Q4
+ORD-00587,2025-09-09,Cairo,Giza,Mobile,SmartOne Lite,3,412.44,0.05,280.36,Retail Store,Small Business,1237.32,1175.45,841.08,334.37,28.45,2025-09,2025Q3
+ORD-00588,2025-02-06,Cairo,Giza,Accessories,USB-C Dock,2,113.97,0.0,71.29,Retail Store,Small Business,227.94,227.94,142.58,85.36,37.45,2025-02,2025Q1
+ORD-00589,2025-11-02,Cairo,Giza,Monitor,ViewPro 27 QHD,3,346.51,0.0,223.62,Online,Consumer,1039.53,1039.53,670.86,368.67,35.47,2025-11,2025Q4
+ORD-00590,2025-11-04,Alexandria,Alexandria,Laptop,WorkMate 15,3,815.42,0.0,521.98,Retail Store,Consumer,2446.26,2446.26,1565.94,880.32,35.99,2025-11,2025Q4
+ORD-00591,2025-10-20,Delta,Tanta,Accessories,Wireless Keyboard,1,53.62,0.0,29.16,Online,Consumer,53.62,53.62,29.16,24.46,45.62,2025-10,2025Q4
+ORD-00592,2025-11-26,Alexandria,Alexandria,Mobile,SmartOne Pro,1,863.95,0.1,549.56,Corporate,Consumer,863.95,777.56,549.56,228.0,29.32,2025-11,2025Q4
+ORD-00593,2025-03-29,Alexandria,Alexandria,Laptop,WorkMate 15,1,727.73,0.1,530.32,Online,Consumer,727.73,654.96,530.32,124.64,19.03,2025-03,2025Q1
+ORD-00594,2025-12-24,Cairo,Giza,Accessories,Wireless Keyboard,4,59.84,0.05,29.26,Online,Consumer,239.36,227.39,117.04,110.35,48.53,2025-12,2025Q4
+ORD-00595,2025-04-28,Upper Egypt,Sohag,Monitor,ViewPro 27 QHD,1,319.79,0.05,227.75,Retail Store,Small Business,319.79,303.8,227.75,76.05,25.03,2025-04,2025Q2
+ORD-00596,2025-10-20,Delta,Mansoura,Mobile,SmartOne Pro,2,763.61,0.0,539.42,Online,Consumer,1527.22,1527.22,1078.84,448.38,29.36,2025-10,2025Q4
+ORD-00597,2025-07-31,Delta,Tanta,Accessories,Wireless Keyboard,1,52.18,0.0,29.3,Online,Consumer,52.18,52.18,29.3,22.88,43.85,2025-07,2025Q3
+ORD-00598,2025-10-12,Cairo,New Cairo,Mobile,Connect X,3,581.53,0.0,422.99,Online,Consumer,1744.59,1744.59,1268.97,475.62,27.26,2025-10,2025Q4
+ORD-00599,2025-08-18,Upper Egypt,Minya,Mobile,SmartOne Lite,1,421.89,0.15,280.51,Retail Store,Small Business,421.89,358.61,280.51,78.1,21.78,2025-08,2025Q3
+ORD-00600,2025-08-23,Cairo,Cairo,Accessories,USB-C Dock,2,111.77,0.1,73.36,Retail Store,Consumer,223.54,201.19,146.72,54.47,27.07,2025-08,2025Q3
+ORD-00601,2025-08-13,Cairo,New Cairo,Accessories,Wireless Keyboard,5,50.54,0.1,28.62,Corporate,Small Business,252.7,227.43,143.1,84.33,37.08,2025-08,2025Q3
+ORD-00602,2025-10-12,Delta,Tanta,Accessories,Ergonomic Mouse,4,38.52,0.15,18.9,Online,Consumer,154.08,130.97,75.6,55.37,42.28,2025-10,2025Q4
+ORD-00603,2025-09-27,Cairo,New Cairo,Laptop,CreatorBook 16,1,1304.81,0.1,969.34,Corporate,Consumer,1304.81,1174.33,969.34,204.99,17.46,2025-09,2025Q3
+ORD-00604,2025-02-19,Cairo,New Cairo,Accessories,Noise-Canceling Headset,1,145.38,0.0,86.28,Retail Store,Consumer,145.38,145.38,86.28,59.1,40.65,2025-02,2025Q1
+ORD-00605,2025-10-29,Delta,Tanta,Accessories,USB-C Dock,5,118.13,0.0,73.72,Online,Consumer,590.65,590.65,368.6,222.05,37.59,2025-10,2025Q4
+ORD-00606,2025-07-15,Cairo,Giza,Accessories,Noise-Canceling Headset,2,143.18,0.0,87.42,Online,Small Business,286.36,286.36,174.84,111.52,38.94,2025-07,2025Q3
+ORD-00607,2025-04-28,Upper Egypt,Sohag,Laptop,WorkMate 15,3,723.13,0.0,520.0,Online,Consumer,2169.39,2169.39,1560.0,609.39,28.09,2025-04,2025Q2
+ORD-00608,2025-07-07,Cairo,Giza,Mobile,Connect X,2,574.66,0.05,420.55,Online,Consumer,1149.32,1091.85,841.1,250.75,22.97,2025-07,2025Q3
+ORD-00609,2025-12-19,Alexandria,Borg El Arab,Mobile,SmartOne Lite,2,446.89,0.05,285.43,Online,Small Business,893.78,849.09,570.86,278.23,32.77,2025-12,2025Q4
+ORD-00610,2025-11-10,Delta,Tanta,Laptop,CreatorBook 16,1,1466.01,0.0,941.49,Online,Small Business,1466.01,1466.01,941.49,524.52,35.78,2025-11,2025Q4
+ORD-00611,2025-11-01,Delta,Mansoura,Laptop,NovaBook 14,1,974.94,0.05,621.45,Online,Consumer,974.94,926.19,621.45,304.74,32.9,2025-11,2025Q4
+ORD-00612,2025-06-18,Delta,Zagazig,Mobile,Connect X,1,594.41,0.0,427.35,Retail Store,Consumer,594.41,594.41,427.35,167.06,28.11,2025-06,2025Q2
+ORD-00613,2025-10-14,Delta,Tanta,Accessories,Noise-Canceling Headset,1,147.41,0.0,88.44,Online,Small Business,147.41,147.41,88.44,58.97,40.0,2025-10,2025Q4
+ORD-00614,2025-05-21,Upper Egypt,Sohag,Laptop,WorkMate 15,2,706.9,0.15,505.8,Retail Store,Consumer,1413.8,1201.73,1011.6,190.13,15.82,2025-05,2025Q2
+ORD-00615,2025-09-08,Cairo,Cairo,Accessories,Ergonomic Mouse,4,39.42,0.05,19.48,Retail Store,Small Business,157.68,149.8,77.92,71.88,47.98,2025-09,2025Q3
+ORD-00616,2025-08-22,Cairo,Giza,Mobile,SmartOne Lite,2,422.42,0.0,290.97,Retail Store,Consumer,844.84,844.84,581.94,262.9,31.12,2025-08,2025Q3
+ORD-00617,2025-04-02,Alexandria,Alexandria,Accessories,USB-C Dock,1,115.56,0.1,72.92,Corporate,Small Business,115.56,104.0,72.92,31.08,29.89,2025-04,2025Q2
+ORD-00618,2025-04-08,Alexandria,Borg El Arab,Mobile,Connect X,1,601.34,0.0,406.91,Online,Consumer,601.34,601.34,406.91,194.43,32.33,2025-04,2025Q2
+ORD-00619,2025-01-23,Cairo,Giza,Mobile,SmartOne Lite,3,419.05,0.15,292.82,Online,Small Business,1257.15,1068.58,878.46,190.12,17.79,2025-01,2025Q1
+ORD-00620,2025-02-21,Delta,Tanta,Accessories,Noise-Canceling Headset,4,149.16,0.0,90.07,Corporate,Consumer,596.64,596.64,360.28,236.36,39.62,2025-02,2025Q1
+ORD-00621,2025-06-08,Upper Egypt,Minya,Monitor,ViewPro 27 QHD,2,315.6,0.0,220.91,Corporate,Enterprise,631.2,631.2,441.82,189.38,30.0,2025-06,2025Q2
+ORD-00622,2025-06-24,Alexandria,Alexandria,Mobile,Connect X,3,584.05,0.0,411.27,Online,Small Business,1752.15,1752.15,1233.81,518.34,29.58,2025-06,2025Q2
+ORD-00623,2025-03-02,Upper Egypt,Sohag,Mobile,Connect X,3,594.13,0.0,414.76,Online,Consumer,1782.39,1782.39,1244.28,538.11,30.19,2025-03,2025Q1
+ORD-00624,2025-06-02,Delta,Zagazig,Accessories,Wireless Keyboard,1,52.01,0.0,29.21,Online,Consumer,52.01,52.01,29.21,22.8,43.84,2025-06,2025Q2
+ORD-00625,2025-08-09,Delta,Unknown,Accessories,Noise-Canceling Headset,1,146.44,0.1,89.8,Online,Consumer,146.44,131.8,89.8,42.0,31.86,2025-08,2025Q3
+ORD-00626,2025-03-26,Cairo,New Cairo,Laptop,CreatorBook 16,3,1317.49,0.0,956.76,Online,Consumer,3952.47,3952.47,2870.28,1082.19,27.38,2025-03,2025Q1
+ORD-00627,2025-05-04,Upper Egypt,Assiut,Mobile,SmartOne Lite,1,424.06,0.0,280.02,Retail Store,Consumer,424.06,424.06,280.02,144.04,33.97,2025-05,2025Q2
+ORD-00628,2025-05-15,Cairo,Cairo,Mobile,SmartOne Pro,3,790.77,0.1,543.85,Online,Consumer,2372.31,2135.08,1631.55,503.53,23.58,2025-05,2025Q2
+ORD-00629,2025-07-04,Alexandria,Borg El Arab,Monitor,ViewPro 24,2,180.53,0.1,122.11,Online,Consumer,361.06,324.95,244.22,80.73,24.84,2025-07,2025Q3
+ORD-00630,2025-05-14,Delta,Tanta,Mobile,SmartOne Lite,1,418.63,0.05,280.25,Retail Store,Enterprise,418.63,397.7,280.25,117.45,29.53,2025-05,2025Q2
+ORD-00631,2025-09-26,Delta,Mansoura,Mobile,Connect X,2,574.99,0.05,417.85,Retail Store,Consumer,1149.98,1092.48,835.7,256.78,23.5,2025-09,2025Q3
+ORD-00632,2025-04-30,Alexandria,Alexandria,Monitor,ViewPro 24,3,190.39,0.15,126.7,Corporate,Consumer,571.17,485.49,380.1,105.39,21.71,2025-04,2025Q2
+ORD-00633,2025-06-08,Delta,Mansoura,Mobile,SmartOne Pro,2,789.38,0.0,536.41,Corporate,Consumer,1578.76,1578.76,1072.82,505.94,32.05,2025-06,2025Q2
+ORD-00634,2025-05-19,Upper Egypt,Assiut,Laptop,NovaBook 14,3,869.88,0.1,624.58,Online,Consumer,2609.64,2348.68,1873.74,474.94,20.22,2025-05,2025Q2
+ORD-00635,2025-03-08,Delta,Tanta,Laptop,CreatorBook 16,2,1343.87,0.0,957.2,Online,Consumer,2687.74,2687.74,1914.4,773.34,28.77,2025-03,2025Q1
+ORD-00636,2025-09-08,Delta,Tanta,Laptop,NovaBook 14,1,856.32,0.05,616.15,Retail Store,Consumer,856.32,813.5,616.15,197.35,24.26,2025-09,2025Q3
+ORD-00637,2025-03-27,Cairo,New Cairo,Laptop,NovaBook 14,1,839.19,0.0,642.4,Retail Store,Consumer,839.19,839.19,642.4,196.79,23.45,2025-03,2025Q1
+ORD-00638,2025-04-19,Delta,Mansoura,Mobile,SmartOne Pro,2,765.16,0.05,536.71,Retail Store,Small Business,1530.32,1453.8,1073.42,380.38,26.16,2025-04,2025Q2
+ORD-00639,2025-10-17,Delta,Tanta,Accessories,USB-C Dock,2,118.94,0.1,73.2,Online,Consumer,237.88,214.09,146.4,67.69,31.62,2025-10,2025Q4
+ORD-00640,2025-12-13,Cairo,Giza,Accessories,USB-C Dock,3,128.75,0.0,70.91,Online,Enterprise,386.25,386.25,212.73,173.52,44.92,2025-12,2025Q4
+ORD-00641,2025-09-02,Cairo,Cairo,Laptop,NovaBook 14,3,857.93,0.05,623.16,Retail Store,Consumer,2573.79,2445.1,1869.48,575.62,23.54,2025-09,2025Q3
+ORD-00642,2025-12-01,Delta,Zagazig,Accessories,Noise-Canceling Headset,1,162.76,0.15,87.76,Online,Consumer,162.76,138.35,87.76,50.59,36.56,2025-12,2025Q4
+ORD-00643,2025-11-08,Delta,Mansoura,Laptop,WorkMate 15,2,795.03,0.05,530.21,Online,Consumer,1590.06,1510.56,1060.42,450.14,29.8,2025-11,2025Q4
+ORD-00644,2025-06-25,Delta,Zagazig,Monitor,ViewPro 27 QHD,2,306.36,0.05,225.43,Online,Small Business,612.72,582.08,450.86,131.22,22.54,2025-06,2025Q2
+ORD-00645,2025-10-09,Cairo,Cairo,Laptop,NovaBook 14,3,840.12,0.05,631.96,Online,Consumer,2520.36,2394.34,1895.88,498.46,20.82,2025-10,2025Q4
+ORD-00646,2025-04-30,Cairo,Giza,Accessories,Noise-Canceling Headset,1,145.58,0.1,86.43,Online,Consumer,145.58,131.02,86.43,44.59,34.03,2025-04,2025Q2
+ORD-00647,2025-06-18,Cairo,Giza,Mobile,Connect X,3,593.19,0.05,417.04,Online,Small Business,1779.57,1690.59,1251.12,439.47,26.0,2025-06,2025Q2
+ORD-00648,2025-07-15,Alexandria,Alexandria,Accessories,Wireless Keyboard,5,51.88,0.1,28.84,Online,Small Business,259.4,233.46,144.2,89.26,38.23,2025-07,2025Q3
+ORD-00649,2025-12-17,Alexandria,Borg El Arab,Mobile,SmartOne Lite,2,464.67,0.0,282.83,Retail Store,Consumer,929.34,929.34,565.66,363.68,39.13,2025-12,2025Q4
+ORD-00650,2025-11-06,Cairo,Cairo,Accessories,USB-C Dock,5,128.87,0.05,72.16,Online,Consumer,644.35,612.13,360.8,251.33,41.06,2025-11,2025Q4
+ORD-00651,2025-06-28,Delta,Mansoura,Laptop,CreatorBook 16,1,1325.26,0.0,955.76,Corporate,Consumer,1325.26,1325.26,955.76,369.5,27.88,2025-06,2025Q2
+ORD-00652,2025-08-27,Cairo,Unknown,Monitor,ViewPro 27 QHD,2,323.6,0.0,222.05,Online,Small Business,647.2,647.2,444.1,203.1,31.38,2025-08,2025Q3
+ORD-00653,2025-03-15,Cairo,Giza,Mobile,SmartOne Pro,3,787.5,0.0,551.54,Retail Store,Consumer,2362.5,2362.5,1654.62,707.88,29.96,2025-03,2025Q1
+ORD-00654,2025-10-21,Cairo,New Cairo,Accessories,Wireless Keyboard,4,50.77,0.05,29.78,Online,Small Business,203.08,192.93,119.12,73.81,38.26,2025-10,2025Q4
+ORD-00655,2025-07-21,Cairo,Giza,Monitor,ViewPro 24,1,185.01,0.1,123.73,Retail Store,Consumer,185.01,166.51,123.73,42.78,25.69,2025-07,2025Q3
+ORD-00656,2025-07-14,Alexandria,Borg El Arab,Monitor,CreatorView 32,1,521.95,0.0,378.05,Online,Small Business,521.95,521.95,378.05,143.9,27.57,2025-07,2025Q3
+ORD-00657,2025-10-07,Upper Egypt,Sohag,Laptop,WorkMate 15,2,730.37,0.1,506.62,Online,Consumer,1460.74,1314.67,1013.24,301.43,22.93,2025-10,2025Q4
+ORD-00658,2025-08-20,Cairo,Cairo,Mobile,SmartOne Pro,3,768.68,0.0,550.28,Retail Store,Consumer,2306.04,2306.04,1650.84,655.2,28.41,2025-08,2025Q3
+ORD-00659,2025-01-27,Delta,Zagazig,Laptop,CreatorBook 16,2,1349.69,0.05,943.65,Online,Consumer,2699.38,2564.41,1887.3,677.11,26.4,2025-01,2025Q1
+ORD-00660,2025-04-16,Alexandria,Borg El Arab,Laptop,NovaBook 14,3,874.4,0.15,630.02,Online,Enterprise,2623.2,2229.72,1890.06,339.66,15.23,2025-04,2025Q2
+ORD-00661,2025-03-06,Upper Egypt,Sohag,Accessories,USB-C Dock,4,119.02,0.15,73.83,Retail Store,Small Business,476.08,404.67,295.32,109.35,27.02,2025-03,2025Q1
+ORD-00662,2025-09-26,Delta,Zagazig,Monitor,ViewPro 24,2,187.79,0.0,123.25,Retail Store,Consumer,375.58,375.58,246.5,129.08,34.37,2025-09,2025Q3
+ORD-00663,2025-01-13,Cairo,Giza,Monitor,ViewPro 27 QHD,1,321.48,0.05,220.52,Online,Small Business,321.48,305.41,220.52,84.89,27.79,2025-01,2025Q1
+ORD-00664,2025-03-15,Delta,Zagazig,Mobile,Connect X,1,578.77,0.0,424.25,Retail Store,Consumer,578.77,578.77,424.25,154.52,26.7,2025-03,2025Q1
+ORD-00665,2025-08-07,Cairo,New Cairo,Accessories,Wireless Keyboard,3,53.01,0.05,29.13,Online,Small Business,159.03,151.08,87.39,63.69,42.16,2025-08,2025Q3
+ORD-00666,2025-09-11,Upper Egypt,Assiut,Monitor,ViewPro 24,2,180.87,0.1,125.22,Retail Store,Consumer,361.74,325.57,250.44,75.13,23.08,2025-09,2025Q3
+ORD-00667,2025-07-03,Cairo,Giza,Monitor,ViewPro 24,1,185.11,0.0,127.46,Retail Store,Consumer,185.11,185.11,127.46,57.65,31.14,2025-07,2025Q3
+ORD-00668,2025-11-11,Alexandria,Alexandria,Laptop,CreatorBook 16,2,1478.28,0.05,956.97,Corporate,Enterprise,2956.56,2808.73,1913.94,894.79,31.86,2025-11,2025Q4
+ORD-00669,2025-12-02,Cairo,New Cairo,Mobile,SmartOne Pro,3,875.02,0.05,541.84,Retail Store,Consumer,2625.06,2493.81,1625.52,868.29,34.82,2025-12,2025Q4
+ORD-00670,2025-02-18,Delta,Zagazig,Monitor,CreatorView 32,2,529.47,0.05,388.1,Online,Consumer,1058.94,1005.99,776.2,229.79,22.84,2025-02,2025Q1
+ORD-00671,2025-12-14,Upper Egypt,Minya,Mobile,Connect X,2,656.16,0.0,426.26,Online,Small Business,1312.32,1312.32,852.52,459.8,35.04,2025-12,2025Q4
+ORD-00672,2025-08-13,Delta,Zagazig,Mobile,SmartOne Lite,3,412.63,0.0,281.14,Online,Consumer,1237.89,1237.89,843.42,394.47,31.87,2025-08,2025Q3
+ORD-00673,2025-08-21,Delta,Tanta,Monitor,ViewPro 27 QHD,2,321.03,0.0,229.39,Retail Store,Consumer,642.06,642.06,458.78,183.28,28.55,2025-08,2025Q3
+ORD-00674,2025-02-04,Upper Egypt,Minya,Monitor,CreatorView 32,3,511.84,0.0,379.02,Retail Store,Small Business,1535.52,1535.52,1137.06,398.46,25.95,2025-02,2025Q1
+ORD-00675,2025-08-15,Alexandria,Alexandria,Monitor,ViewPro 24,3,187.98,0.0,126.19,Online,Consumer,563.94,563.94,378.57,185.37,32.87,2025-08,2025Q3
+ORD-00676,2025-09-22,Cairo,Cairo,Accessories,Noise-Canceling Headset,3,150.56,0.05,87.13,Online,Consumer,451.68,429.1,261.39,167.71,39.08,2025-09,2025Q3
+ORD-00677,2025-07-31,Delta,Tanta,Laptop,CreatorBook 16,2,1350.53,0.0,978.87,Retail Store,Consumer,2701.06,2701.06,1957.74,743.32,27.52,2025-07,2025Q3
+ORD-00678,2025-01-31,Delta,Mansoura,Mobile,SmartOne Lite,1,403.66,0.0,279.33,Retail Store,Enterprise,403.66,403.66,279.33,124.33,30.8,2025-01,2025Q1
+ORD-00679,2025-07-10,Delta,Mansoura,Mobile,SmartOne Pro,1,792.04,0.0,539.87,Online,Enterprise,792.04,792.04,539.87,252.17,31.84,2025-07,2025Q3
+ORD-00680,2025-12-08,Cairo,Giza,Accessories,Noise-Canceling Headset,1,163.6,0.0,86.93,Corporate,Small Business,163.6,163.6,86.93,76.67,46.86,2025-12,2025Q4
+ORD-00681,2025-09-22,Cairo,Cairo,Mobile,SmartOne Pro,2,785.42,0.1,552.34,Online,Consumer,1570.84,1413.76,1104.68,309.08,21.86,2025-09,2025Q3
+ORD-00682,2025-02-20,Upper Egypt,Assiut,Accessories,Wireless Keyboard,5,51.88,0.0,29.1,Retail Store,Consumer,259.4,259.4,145.5,113.9,43.91,2025-02,2025Q1
+ORD-00683,2025-12-17,Upper Egypt,Minya,Mobile,SmartOne Lite,3,464.68,0.0,284.84,Corporate,Consumer,1394.04,1394.04,854.52,539.52,38.7,2025-12,2025Q4
+ORD-00684,2025-12-16,Alexandria,Borg El Arab,Accessories,Ergonomic Mouse,4,42.76,0.1,19.49,Online,Consumer,171.04,153.94,77.96,75.98,49.36,2025-12,2025Q4
+ORD-00685,2025-03-03,Upper Egypt,Assiut,Mobile,SmartOne Pro,3,782.19,0.05,552.73,Online,Consumer,2346.57,2229.24,1658.19,571.05,25.62,2025-03,2025Q1
+ORD-00686,2025-10-20,Alexandria,Borg El Arab,Mobile,SmartOne Pro,3,771.54,0.0,552.28,Retail Store,Consumer,2314.62,2314.62,1656.84,657.78,28.42,2025-10,2025Q4
+ORD-00687,2025-05-29,Alexandria,Borg El Arab,Laptop,NovaBook 14,3,837.89,0.05,635.59,Retail Store,Small Business,2513.67,2387.99,1906.77,481.22,20.15,2025-05,2025Q2
+ORD-00688,2025-08-05,Alexandria,Borg El Arab,Laptop,NovaBook 14,2,839.35,0.1,635.5,Online,Consumer,1678.7,1510.83,1271.0,239.83,15.87,2025-08,2025Q3
+ORD-00689,2025-06-12,Delta,Zagazig,Monitor,CreatorView 32,3,525.09,0.0,375.57,Online,Consumer,1575.27,1575.27,1126.71,448.56,28.48,2025-06,2025Q2
+ORD-00690,2025-10-13,Delta,Mansoura,Mobile,Connect X,1,586.66,0.1,422.42,Retail Store,Enterprise,586.66,527.99,422.42,105.57,20.0,2025-10,2025Q4
+ORD-00691,2025-12-30,Cairo,Cairo,Laptop,WorkMate 15,3,785.51,0.0,521.67,Online,Small Business,2356.53,2356.53,1565.01,791.52,33.59,2025-12,2025Q4
+ORD-00692,2025-10-18,Delta,Zagazig,Accessories,Noise-Canceling Headset,2,149.27,0.0,86.95,Retail Store,Consumer,298.54,298.54,173.9,124.64,41.75,2025-10,2025Q4
+ORD-00693,2025-12-06,Cairo,Cairo,Mobile,SmartOne Pro,2,883.25,0.0,559.03,Corporate,Small Business,1766.5,1766.5,1118.06,648.44,36.71,2025-12,2025Q4
+ORD-00694,2025-12-12,Cairo,Cairo,Laptop,CreatorBook 16,1,1438.26,0.05,986.05,Retail Store,Small Business,1438.26,1366.35,986.05,380.3,27.83,2025-12,2025Q4
+ORD-00695,2025-02-02,Delta,Tanta,Mobile,SmartOne Pro,1,766.39,0.0,554.59,Retail Store,Small Business,766.39,766.39,554.59,211.8,27.64,2025-02,2025Q1
+ORD-00696,2025-04-03,Delta,Unknown,Laptop,CreatorBook 16,1,1299.86,0.0,955.39,Online,Consumer,1299.86,1299.86,955.39,344.47,26.5,2025-04,2025Q2
+ORD-00697,2025-09-21,Cairo,Cairo,Accessories,Wireless Keyboard,2,54.08,0.0,28.86,Online,Consumer,108.16,108.16,57.72,50.44,46.63,2025-09,2025Q3
+ORD-00698,2025-08-04,Alexandria,Alexandria,Laptop,CreatorBook 16,3,1372.1,0.0,974.62,Online,Consumer,4116.3,4116.3,2923.86,1192.44,28.97,2025-08,2025Q3
+ORD-00699,2025-01-19,Alexandria,Alexandria,Laptop,WorkMate 15,2,713.83,0.1,523.83,Corporate,Consumer,1427.66,1284.89,1047.66,237.23,18.46,2025-01,2025Q1
+ORD-00700,2025-02-04,Cairo,Cairo,Laptop,NovaBook 14,3,839.9,0.05,638.93,Retail Store,Consumer,2519.7,2393.71,1916.79,476.92,19.92,2025-02,2025Q1
+ORD-00701,2025-07-09,Cairo,New Cairo,Accessories,Ergonomic Mouse,5,37.5,0.0,19.42,Online,Small Business,187.5,187.5,97.1,90.4,48.21,2025-07,2025Q3
+ORD-00702,2025-08-13,Cairo,Cairo,Laptop,NovaBook 14,2,833.1,0.0,639.86,Online,Consumer,1666.2,1666.2,1279.72,386.48,23.2,2025-08,2025Q3
+ORD-00703,2025-03-03,Alexandria,Borg El Arab,Monitor,ViewPro 27 QHD,3,315.21,0.05,227.25,Retail Store,Enterprise,945.63,898.35,681.75,216.6,24.11,2025-03,2025Q1
+ORD-00704,2025-03-04,Alexandria,Borg El Arab,Laptop,CreatorBook 16,3,1345.02,0.05,966.36,Online,Small Business,4035.06,3833.31,2899.08,934.23,24.37,2025-03,2025Q1
+ORD-00705,2025-02-17,Cairo,Giza,Accessories,Wireless Keyboard,3,53.2,0.15,29.82,Retail Store,Small Business,159.6,135.66,89.46,46.2,34.06,2025-02,2025Q1
+ORD-00706,2025-07-26,Alexandria,Alexandria,Mobile,Connect X,3,579.65,0.0,416.64,Corporate,Small Business,1738.95,1738.95,1249.92,489.03,28.12,2025-07,2025Q3
+ORD-00707,2025-01-03,Cairo,Cairo,Mobile,SmartOne Pro,2,770.48,0.0,552.98,Corporate,Consumer,1540.96,1540.96,1105.96,435.0,28.23,2025-01,2025Q1
+ORD-00708,2025-07-28,Cairo,Cairo,Laptop,WorkMate 15,2,700.85,0.0,511.59,Online,Consumer,1401.7,1401.7,1023.18,378.52,27.0,2025-07,2025Q3
+ORD-00709,2025-06-23,Upper Egypt,Sohag,Accessories,Noise-Canceling Headset,2,142.27,0.0,89.46,Online,Consumer,284.54,284.54,178.92,105.62,37.12,2025-06,2025Q2
+ORD-00710,2025-06-20,Cairo,Cairo,Monitor,CreatorView 32,2,504.77,0.0,387.0,Online,Enterprise,1009.54,1009.54,774.0,235.54,23.33,2025-06,2025Q2
+ORD-00711,2025-09-05,Cairo,Cairo,Laptop,WorkMate 15,1,709.17,0.0,526.63,Retail Store,Consumer,709.17,709.17,526.63,182.54,25.74,2025-09,2025Q3
+ORD-00712,2025-07-10,Delta,Tanta,Laptop,NovaBook 14,2,824.67,0.1,625.87,Retail Store,Consumer,1649.34,1484.41,1251.74,232.67,15.67,2025-07,2025Q3
+ORD-00713,2025-09-23,Delta,Mansoura,Monitor,ViewPro 27 QHD,1,320.98,0.0,227.11,Retail Store,Small Business,320.98,320.98,227.11,93.87,29.24,2025-09,2025Q3
+ORD-00714,2025-10-06,Upper Egypt,Minya,Mobile,Connect X,3,583.16,0.1,409.23,Online,Consumer,1749.48,1574.53,1227.69,346.84,22.03,2025-10,2025Q4
+ORD-00715,2025-12-02,Upper Egypt,Assiut,Laptop,WorkMate 15,3,782.82,0.05,513.43,Online,Consumer,2348.46,2231.04,1540.29,690.75,30.96,2025-12,2025Q4
+ORD-00716,2025-10-19,Cairo,Giza,Laptop,NovaBook 14,3,879.04,0.15,622.23,Retail Store,Consumer,2637.12,2241.55,1866.69,374.86,16.72,2025-10,2025Q4
+ORD-00717,2025-07-08,Cairo,Giza,Accessories,Ergonomic Mouse,3,37.86,0.15,19.19,Online,Consumer,113.58,96.54,57.57,38.97,40.37,2025-07,2025Q3
+ORD-00718,2025-06-29,Alexandria,Borg El Arab,Accessories,Noise-Canceling Headset,5,149.62,0.0,86.84,Retail Store,Small Business,748.1,748.1,434.2,313.9,41.96,2025-06,2025Q2
+ORD-00719,2025-03-28,Cairo,Cairo,Accessories,Noise-Canceling Headset,3,142.6,0.0,89.96,Retail Store,Consumer,427.8,427.8,269.88,157.92,36.91,2025-03,2025Q1
+ORD-00720,2025-08-07,Upper Egypt,Sohag,Monitor,ViewPro 24,2,188.3,0.1,122.37,Online,Consumer,376.6,338.94,244.74,94.2,27.79,2025-08,2025Q3
+ORD-00721,2025-02-20,Delta,Mansoura,Mobile,SmartOne Lite,2,423.18,0.1,287.76,Online,Enterprise,846.36,761.72,575.52,186.2,24.45,2025-02,2025Q1
+ORD-00722,2025-12-06,Cairo,Giza,Mobile,SmartOne Pro,2,901.57,0.0,549.3,Online,Enterprise,1803.14,1803.14,1098.6,704.54,39.07,2025-12,2025Q4
+ORD-00723,2025-11-05,Alexandria,Alexandria,Mobile,Connect X,3,662.08,0.0,412.5,Retail Store,Consumer,1986.24,1986.24,1237.5,748.74,37.7,2025-11,2025Q4
+ORD-00724,2025-02-13,Cairo,New Cairo,Mobile,SmartOne Pro,2,769.38,0.0,551.08,Retail Store,Consumer,1538.76,1538.76,1102.16,436.6,28.37,2025-02,2025Q1
+ORD-00725,2025-10-14,Delta,Tanta,Laptop,CreatorBook 16,1,1329.52,0.0,969.89,Corporate,Consumer,1329.52,1329.52,969.89,359.63,27.05,2025-10,2025Q4
+ORD-00726,2025-02-12,Delta,Zagazig,Laptop,NovaBook 14,2,862.0,0.05,632.09,Corporate,Small Business,1724.0,1637.8,1264.18,373.62,22.81,2025-02,2025Q1
+ORD-00727,2025-09-21,Delta,Tanta,Mobile,SmartOne Lite,2,409.0,0.0,284.7,Online,Consumer,818.0,818.0,569.4,248.6,30.39,2025-09,2025Q3
+ORD-00728,2025-02-02,Alexandria,Borg El Arab,Accessories,Wireless Keyboard,1,50.57,0.05,28.82,Retail Store,Consumer,50.57,48.04,28.82,19.22,40.01,2025-02,2025Q1
+ORD-00729,2025-06-28,Delta,Tanta,Laptop,WorkMate 15,3,728.26,0.15,507.23,Retail Store,Small Business,2184.78,1857.06,1521.69,335.37,18.06,2025-06,2025Q2
+ORD-00730,2025-08-29,Upper Egypt,Sohag,Mobile,SmartOne Pro,1,774.72,0.0,550.41,Online,Consumer,774.72,774.72,550.41,224.31,28.95,2025-08,2025Q3
+ORD-00731,2025-09-24,Upper Egypt,Assiut,Accessories,Ergonomic Mouse,1,38.48,0.0,19.12,Online,Consumer,38.48,38.48,19.12,19.36,50.31,2025-09,2025Q3
+ORD-00732,2025-06-02,Delta,Mansoura,Accessories,USB-C Dock,3,117.81,0.0,73.84,Retail Store,Enterprise,353.43,353.43,221.52,131.91,37.32,2025-06,2025Q2
+ORD-00733,2025-12-03,Cairo,Giza,Accessories,Ergonomic Mouse,3,42.01,0.05,18.66,Retail Store,Consumer,126.03,119.73,55.98,63.75,53.24,2025-12,2025Q4
+ORD-00734,2025-10-10,Alexandria,Alexandria,Accessories,Noise-Canceling Headset,2,147.18,0.1,89.9,Online,Consumer,294.36,264.92,179.8,85.12,32.13,2025-10,2025Q4
+ORD-00735,2025-03-18,Upper Egypt,Sohag,Accessories,Wireless Keyboard,3,52.13,0.0,29.84,Online,Consumer,156.39,156.39,89.52,66.87,42.76,2025-03,2025Q1
+ORD-00736,2025-09-02,Cairo,Giza,Laptop,CreatorBook 16,1,1313.19,0.0,975.5,Retail Store,Consumer,1313.19,1313.19,975.5,337.69,25.72,2025-09,2025Q3
+ORD-00737,2025-09-24,Delta,Zagazig,Mobile,SmartOne Lite,2,412.19,0.05,285.76,Corporate,Consumer,824.38,783.16,571.52,211.64,27.02,2025-09,2025Q3
+ORD-00738,2025-05-02,Delta,Mansoura,Accessories,Noise-Canceling Headset,4,143.97,0.05,89.38,Retail Store,Small Business,575.88,547.09,357.52,189.57,34.65,2025-05,2025Q2
+ORD-00739,2025-09-27,Cairo,Cairo,Laptop,WorkMate 15,1,716.32,0.0,508.77,Retail Store,Consumer,716.32,716.32,508.77,207.55,28.97,2025-09,2025Q3
+ORD-00740,2025-11-24,Alexandria,Borg El Arab,Laptop,CreatorBook 16,3,1525.63,0.15,977.9,Online,Small Business,4576.89,3890.36,2933.7,956.66,24.59,2025-11,2025Q4
+ORD-00741,2025-10-26,Cairo,New Cairo,Laptop,WorkMate 15,1,702.9,0.0,513.41,Online,Small Business,702.9,702.9,513.41,189.49,26.96,2025-10,2025Q4
+ORD-00742,2025-10-06,Alexandria,Borg El Arab,Mobile,SmartOne Lite,1,403.16,0.05,281.06,Corporate,Consumer,403.16,383.0,281.06,101.94,26.62,2025-10,2025Q4
+ORD-00743,2025-08-20,Alexandria,Borg El Arab,Mobile,SmartOne Lite,1,414.18,0.0,287.26,Retail Store,Small Business,414.18,414.18,287.26,126.92,30.64,2025-08,2025Q3
+ORD-00744,2025-04-09,Alexandria,Alexandria,Laptop,WorkMate 15,1,713.25,0.15,520.62,Online,Consumer,713.25,606.26,520.62,85.64,14.13,2025-04,2025Q2
+ORD-00745,2025-10-18,Delta,Zagazig,Accessories,Ergonomic Mouse,1,38.55,0.1,19.55,Corporate,Small Business,38.55,34.7,19.55,15.14,43.65,2025-10,2025Q4
+ORD-00746,2025-05-13,Cairo,Cairo,Monitor,CreatorView 32,3,516.75,0.0,384.83,Online,Consumer,1550.25,1550.25,1154.49,395.76,25.53,2025-05,2025Q2
+ORD-00747,2025-07-14,Alexandria,Alexandria,Laptop,CreatorBook 16,3,1372.39,0.05,958.6,Online,Consumer,4117.17,3911.31,2875.8,1035.51,26.47,2025-07,2025Q3
+ORD-00748,2025-04-25,Alexandria,Unknown,Monitor,ViewPro 27 QHD,2,310.7,0.0,223.19,Online,Enterprise,621.4,621.4,446.38,175.02,28.17,2025-04,2025Q2
+ORD-00749,2025-04-25,Delta,Tanta,Laptop,CreatorBook 16,1,1310.41,0.0,966.17,Online,Small Business,1310.41,1310.41,966.17,344.24,26.27,2025-04,2025Q2
+ORD-00750,2025-02-27,Upper Egypt,Sohag,Monitor,ViewPro 27 QHD,2,317.97,0.0,227.15,Online,Consumer,635.94,635.94,454.3,181.64,28.56,2025-02,2025Q1
+ORD-00751,2025-12-17,Cairo,New Cairo,Monitor,ViewPro 27 QHD,2,342.86,0.05,223.2,Online,Small Business,685.72,651.43,446.4,205.03,31.47,2025-12,2025Q4
+ORD-00752,2025-02-23,Upper Egypt,Minya,Laptop,NovaBook 14,3,848.17,0.15,637.56,Online,Consumer,2544.51,2162.83,1912.68,250.15,11.57,2025-02,2025Q1
+ORD-00753,2025-02-01,Cairo,New Cairo,Accessories,Noise-Canceling Headset,4,147.03,0.0,88.98,Online,Consumer,588.12,588.12,355.92,232.2,39.48,2025-02,2025Q1
+ORD-00754,2025-12-08,Cairo,Cairo,Monitor,ViewPro 24,2,202.78,0.05,127.26,Corporate,Consumer,405.56,385.28,254.52,130.76,33.94,2025-12,2025Q4
+ORD-00755,2025-07-22,Delta,Mansoura,Monitor,CreatorView 32,2,529.73,0.0,379.42,Retail Store,Small Business,1059.46,1059.46,758.84,300.62,28.37,2025-07,2025Q3
+ORD-00756,2025-06-09,Cairo,New Cairo,Monitor,CreatorView 32,2,540.34,0.05,380.43,Retail Store,Small Business,1080.68,1026.65,760.86,265.79,25.89,2025-06,2025Q2
+ORD-00757,2025-09-27,Cairo,Cairo,Mobile,SmartOne Pro,3,804.96,0.05,543.62,Retail Store,Small Business,2414.88,2294.14,1630.86,663.28,28.91,2025-09,2025Q3
+ORD-00758,2025-05-20,Cairo,Giza,Laptop,NovaBook 14,2,871.56,0.0,625.63,Online,Consumer,1743.12,1743.12,1251.26,491.86,28.22,2025-05,2025Q2
+ORD-00759,2025-02-16,Delta,Mansoura,Monitor,ViewPro 27 QHD,3,312.36,0.0,230.44,Retail Store,Small Business,937.08,937.08,691.32,245.76,26.23,2025-02,2025Q1
+ORD-00760,2025-09-24,Alexandria,Borg El Arab,Accessories,USB-C Dock,1,116.73,0.05,73.1,Online,Consumer,116.73,110.89,73.1,37.79,34.08,2025-09,2025Q3
+ORD-00761,2025-03-06,Cairo,New Cairo,Accessories,Ergonomic Mouse,4,38.17,0.05,19.14,Retail Store,Small Business,152.68,145.05,76.56,68.49,47.22,2025-03,2025Q1
+ORD-00762,2025-07-21,Delta,Zagazig,Mobile,SmartOne Lite,3,418.2,0.05,289.49,Corporate,Consumer,1254.6,1191.87,868.47,323.4,27.13,2025-07,2025Q3
+ORD-00763,2025-12-13,Alexandria,Borg El Arab,Accessories,Noise-Canceling Headset,4,165.68,0.0,88.34,Online,Enterprise,662.72,662.72,353.36,309.36,46.68,2025-12,2025Q4
+ORD-00764,2025-12-08,Cairo,Giza,Laptop,CreatorBook 16,3,1470.97,0.0,949.23,Online,Consumer,4412.91,4412.91,2847.69,1565.22,35.47,2025-12,2025Q4
+ORD-00765,2025-05-12,Cairo,New Cairo,Accessories,Wireless Keyboard,3,51.07,0.05,29.29,Online,Consumer,153.21,145.55,87.87,57.68,39.63,2025-05,2025Q2
+ORD-00766,2025-10-12,Alexandria,Alexandria,Laptop,WorkMate 15,3,735.98,0.1,519.15,Online,Small Business,2207.94,1987.15,1557.45,429.7,21.62,2025-10,2025Q4
+ORD-00767,2025-08-12,Alexandria,Alexandria,Accessories,Wireless Keyboard,4,53.97,0.0,29.82,Online,Small Business,215.88,215.88,119.28,96.6,44.75,2025-08,2025Q3
+ORD-00768,2025-06-24,Delta,Tanta,Monitor,CreatorView 32,1,526.16,0.0,374.42,Online,Consumer,526.16,526.16,374.42,151.74,28.84,2025-06,2025Q2
+ORD-00769,2025-02-21,Alexandria,Borg El Arab,Mobile,Connect X,3,593.72,0.1,423.24,Online,Small Business,1781.16,1603.04,1269.72,333.32,20.79,2025-02,2025Q1
+ORD-00770,2025-05-18,Cairo,New Cairo,Mobile,Connect X,1,602.95,0.05,422.12,Retail Store,Enterprise,602.95,572.8,422.12,150.68,26.31,2025-05,2025Q2
+ORD-00771,2025-08-26,Cairo,Giza,Mobile,Connect X,2,605.82,0.0,407.82,Online,Enterprise,1211.64,1211.64,815.64,396.0,32.68,2025-08,2025Q3
+ORD-00772,2025-12-27,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,3,342.35,0.15,227.56,Online,Consumer,1027.05,872.99,682.68,190.31,21.8,2025-12,2025Q4
+ORD-00773,2025-01-02,Cairo,New Cairo,Accessories,USB-C Dock,1,116.0,0.15,74.11,Retail Store,Consumer,116.0,98.6,74.11,24.49,24.84,2025-01,2025Q1
+ORD-00774,2025-09-19,Alexandria,Alexandria,Mobile,SmartOne Lite,1,412.69,0.05,287.85,Corporate,Consumer,412.69,392.06,287.85,104.21,26.58,2025-09,2025Q3
+ORD-00775,2025-11-05,Delta,Mansoura,Laptop,CreatorBook 16,1,1455.77,0.0,946.75,Online,Small Business,1455.77,1455.77,946.75,509.02,34.97,2025-11,2025Q4
+ORD-00776,2025-12-14,Alexandria,Borg El Arab,Laptop,CreatorBook 16,1,1525.84,0.0,985.28,Online,Consumer,1525.84,1525.84,985.28,540.56,35.43,2025-12,2025Q4
+ORD-00777,2025-06-04,Delta,Mansoura,Mobile,SmartOne Pro,3,809.14,0.0,544.51,Online,Enterprise,2427.42,2427.42,1633.53,793.89,32.71,2025-06,2025Q2
+ORD-00778,2025-02-13,Cairo,Giza,Monitor,ViewPro 27 QHD,3,310.43,0.0,223.65,Online,Small Business,931.29,931.29,670.95,260.34,27.95,2025-02,2025Q1
+ORD-00779,2025-04-09,Cairo,New Cairo,Accessories,Noise-Canceling Headset,1,146.58,0.0,88.03,Online,Consumer,146.58,146.58,88.03,58.55,39.94,2025-04,2025Q2
+ORD-00780,2025-11-07,Cairo,Unknown,Laptop,NovaBook 14,3,948.55,0.1,637.82,Online,Small Business,2845.65,2561.08,1913.46,647.62,25.29,2025-11,2025Q4
+ORD-00781,2025-11-17,Alexandria,Alexandria,Monitor,ViewPro 24,2,204.13,0.0,123.4,Retail Store,Consumer,408.26,408.26,246.8,161.46,39.55,2025-11,2025Q4
+ORD-00782,2025-08-21,Cairo,New Cairo,Mobile,Connect X,1,613.33,0.0,409.1,Corporate,Small Business,613.33,613.33,409.1,204.23,33.3,2025-08,2025Q3
+ORD-00783,2025-02-14,Cairo,Cairo,Monitor,CreatorView 32,1,527.43,0.05,387.8,Online,Consumer,527.43,501.06,387.8,113.26,22.6,2025-02,2025Q1
+ORD-00784,2025-02-14,Cairo,New Cairo,Laptop,NovaBook 14,2,853.05,0.05,630.43,Retail Store,Consumer,1706.1,1620.79,1260.86,359.93,22.21,2025-02,2025Q1
+ORD-00785,2025-06-24,Cairo,New Cairo,Accessories,USB-C Dock,3,114.25,0.0,71.41,Online,Consumer,342.75,342.75,214.23,128.52,37.5,2025-06,2025Q2
+ORD-00786,2025-08-03,Alexandria,Alexandria,Monitor,ViewPro 27 QHD,2,306.92,0.05,222.55,Retail Store,Consumer,613.84,583.15,445.1,138.05,23.67,2025-08,2025Q3
+ORD-00787,2025-01-12,Cairo,Cairo,Laptop,CreatorBook 16,1,1368.91,0.05,968.85,Retail Store,Enterprise,1368.91,1300.46,968.85,331.61,25.5,2025-01,2025Q1
+ORD-00788,2025-09-08,Upper Egypt,Assiut,Accessories,USB-C Dock,5,114.63,0.05,73.04,Online,Consumer,573.15,544.49,365.2,179.29,32.93,2025-09,2025Q3
+ORD-00789,2025-07-18,Cairo,New Cairo,Monitor,ViewPro 24,3,190.7,0.15,123.32,Retail Store,Small Business,572.1,486.28,369.96,116.32,23.92,2025-07,2025Q3
+ORD-00790,2025-01-05,Delta,Mansoura,Laptop,NovaBook 14,2,842.62,0.0,626.58,Online,Consumer,1685.24,1685.24,1253.16,432.08,25.64,2025-01,2025Q1
+ORD-00791,2025-02-04,Delta,Zagazig,Laptop,CreatorBook 16,3,1292.96,0.05,951.97,Online,Small Business,3878.88,3684.94,2855.91,829.03,22.5,2025-02,2025Q1
+ORD-00792,2025-06-15,Cairo,New Cairo,Accessories,Wireless Keyboard,4,53.23,0.05,28.56,Online,Small Business,212.92,202.27,114.24,88.03,43.52,2025-06,2025Q2
+ORD-00793,2025-09-21,Upper Egypt,Assiut,Mobile,SmartOne Lite,3,414.95,0.05,287.26,Retail Store,Small Business,1244.85,1182.61,861.78,320.83,27.13,2025-09,2025Q3
+ORD-00794,2025-10-29,Upper Egypt,Minya,Laptop,WorkMate 15,3,725.69,0.0,526.74,Online,Consumer,2177.07,2177.07,1580.22,596.85,27.42,2025-10,2025Q4
+ORD-00795,2025-06-07,Upper Egypt,Assiut,Mobile,SmartOne Lite,2,414.08,0.1,290.67,Retail Store,Consumer,828.16,745.34,581.34,164.0,22.0,2025-06,2025Q2
+ORD-00796,2025-04-18,Cairo,Giza,Accessories,Ergonomic Mouse,1,38.28,0.05,18.64,Retail Store,Small Business,38.28,36.37,18.64,17.73,48.74,2025-04,2025Q2
+ORD-00797,2025-12-20,Cairo,New Cairo,Mobile,Connect X,2,641.24,0.0,409.1,Online,Consumer,1282.48,1282.48,818.2,464.28,36.2,2025-12,2025Q4
+ORD-00798,2025-06-17,Delta,Mansoura,Mobile,Connect X,2,590.32,0.0,421.02,Online,Consumer,1180.64,1180.64,842.04,338.6,28.68,2025-06,2025Q2
+ORD-00799,2025-04-26,Cairo,Giza,Monitor,ViewPro 27 QHD,1,309.14,0.0,226.9,Retail Store,Consumer,309.14,309.14,226.9,82.24,26.6,2025-04,2025Q2
+ORD-00800,2025-06-11,Alexandria,Alexandria,Mobile,SmartOne Pro,2,800.06,0.1,560.15,Retail Store,Small Business,1600.12,1440.11,1120.3,319.81,22.21,2025-06,2025Q2
