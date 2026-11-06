@@ -4,6 +4,16 @@ A reproducible Python data-analysis project that cleans retail transaction data,
 
 The project was developed from Python, NumPy, Pandas, file-handling, and data-cleaning coursework and expanded into a complete portfolio project.
 
+## Project Screenshots
+
+![Category Performance](01_category_performance.png)
+
+![Monthly Revenue](02_monthly_revenue.png)
+
+![Regional Profit Margin](03_regional_profit_margin.png)
+
+![Terminal Execution](04_terminal_execution.png)
+
 ## Business problem
 
 A multi-region technology retailer needs to understand revenue, profit, category performance, regional performance, customer segments, and monthly trends. The raw file also contains realistic data-quality issues such as missing values and duplicate rows.
@@ -23,19 +33,19 @@ A multi-region technology retailer needs to understand revenue, profit, category
 
 ```text
 data/
-  retail_sales_raw.csv
-  retail_sales_clean.csv
+    retail_sales_raw.csv
+    retail_sales_clean.csv
 output/
-  analysis_report.md
-  category_performance.png
-  monthly_revenue.png
-  regional_profit_margin.png
-  category_summary.csv
-  monthly_summary.csv
-  top_products.csv
+    analysis_report.md
+    category_performance.png
+    monthly_revenue.png
+    regional_profit_margin.png
+    category_summary.csv
+    monthly_summary.csv
+    top_products.csv
 src/
-  generate_data.py
-  analysis.py
+    generate_data.py
+    analysis.py
 requirements.txt
 ```
 
